@@ -14,6 +14,7 @@
 - Repeatable faction project: Advanced Space Exploitation Studies (5% Space Mining boost)
 - Two projects reducing hab bombing damage
 - Two projects reducing MCU signature for alien hate without Pherocryte Analysis
+- Repeatable project to update the alien threat meter
 
 ## New Ship-Equipment
 - Advanced plasma cannons (MK IV + MK V)
