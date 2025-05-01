@@ -17,6 +17,6 @@
 
 ## New Ship-Equipment
 - Advanced plasma cannons
--- MKIV (on par with alien plasma)
---MKV (~25% more effective than alien plasma)
+    - MKIV (on par with alien plasma)
+    -MKV (~25% more effective than alien plasma)
 - Advanced Hybrid Armor
