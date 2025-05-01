@@ -1,0 +1,560 @@
+[
+  {
+    "friendlyName": "Research Lab",
+    "dataName": "Project_ResearchLab",
+    "techCategory": "Energy",
+    "AI_techRole": "SpaceDevelopment",
+    "AI_projectRole": "Research",
+    "researchCost": 300,
+    "prereqs": [
+      "Project_PlatformCore"
+    ],
+    "altPrereq0": "Project_OutpostCore",
+    "oneTimeGlobally": false,
+    "repeatable": false,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 100,
+    "deltaUnlockChance": 6,
+    "maxUnlockChance": 100,
+    "resourcesGranted": [],
+  },
+ {
+   "friendlyName": "E-AM Fusion Reactor Farm",
+   "dataName": "Project_EAMFusionReactorFarm",
+   "techCategory": "Energy",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "HabInfrastructure",
+   "researchCost": 40000,
+   "prereqs": [
+      "Project_HeavyFusionReactorFarm",
+      "ExoticAntimatterSpikedFusion",
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": [],
+},
+ {
+   "friendlyName": "Exotic Matter Fuser",
+   "dataName": "Project_EM_Fuser",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "HabInfrastructure",
+   "researchCost": 20000,
+   "prereqs": [
+      "ExoticMatterProduction"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Advanced Exotic Matter Fuser",
+   "dataName": "Project_EMMassFuser",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "HabInfrastructure",
+   "researchCost": 40000,
+   "prereqs": [
+      "Project_EM_Fuser",
+	  "ExoticMatterMassProduction"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Advanced Supercollider",
+   "dataName": "Project_BSuperCollider",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "HabInfrastructure",
+   "researchCost": 20000,
+   "prereqs": [
+      "Project_Supercollider",
+	  "ExoticMatterProduction",
+	  "Project_EM_Fuser",
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Oversized Supercollider",
+   "dataName": "Project_OSSuperCollider",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "HabInfrastructure",
+   "researchCost": 40000,
+   "prereqs": [
+      "Project_BSuperCollider",
+	  "ExoticMatterMassProduction",
+	  "Project_EMMassFuser",
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Matter Synthesiser",
+   "dataName": "Project_Synthesiser",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "HabInfrastructure",
+   "researchCost": 100000,
+   "prereqs": [
+      "EnergyMatterConversion"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Advanced Nanofacturing Complex",
+   "dataName": "Project_AdvancedNanofacturingComplex",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "HabInfrastructure",
+   "researchCost": 100000,
+   "prereqs": [
+      "EnergyMatterConversion"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+{
+   "friendlyName": "Plasma Battery MKIV",
+   "dataName": "Project_PB4",
+   "techCategory": "MilitaryScience",
+   "AI_techRole": "SpaceWar",
+   "AI_projectRole": "Kinetics",
+   "researchCost": 20000,
+   "prereqs": [
+      "AdvancedPlasmaWeapons"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+{
+   "friendlyName": "Heavy Plasma Battery MKIV",
+   "dataName": "Project_HPB4",
+   "techCategory": "MilitaryScience",
+   "AI_techRole": "SpaceWar",
+   "AI_projectRole": "Kinetics",
+   "researchCost": 20000,
+   "prereqs": [
+      "AdvancedPlasmaWeapons"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+{
+   "friendlyName": "Plasma Cannon MKIV",
+   "dataName": "Project_PC4",
+   "techCategory": "MilitaryScience",
+   "AI_techRole": "SpaceWar",
+   "AI_projectRole": "Kinetics",
+   "researchCost": 20000,
+   "prereqs": [
+      "AdvancedPlasmaWeapons"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+{
+   "friendlyName": "Heavy Plasma Cannon MKIV",
+   "dataName": "Project_HPC4",
+   "techCategory": "MilitaryScience",
+   "AI_techRole": "SpaceWar",
+   "AI_projectRole": "Kinetics",
+   "researchCost": 20000,
+   "prereqs": [
+      "AdvancedPlasmaWeapons"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+{
+   "friendlyName": "Plasma Battery MKV",
+   "dataName": "Project_PB5",
+   "techCategory": "MilitaryScience",
+   "AI_techRole": "SpaceWar",
+   "AI_projectRole": "Kinetics",
+   "researchCost": 40000,
+   "prereqs": [
+      "Project_PB4"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+{
+   "friendlyName": "Heavy Plasma Battery MKV",
+   "dataName": "Project_HPB5",
+   "techCategory": "MilitaryScience",
+   "AI_techRole": "SpaceWar",
+   "AI_projectRole": "Kinetics",
+   "researchCost": 40000,
+   "prereqs": [
+      "Project_HPB4"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+{
+   "friendlyName": "Plasma Cannon MKV",
+   "dataName": "Project_PC5",
+   "techCategory": "MilitaryScience",
+   "AI_techRole": "SpaceWar",
+   "AI_projectRole": "Kinetics",
+   "researchCost": 40000,
+   "prereqs": [
+      "Project_PC4"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+{
+   "friendlyName": "Heavy Plasma Cannon MKV",
+   "dataName": "Project_HPC5",
+   "techCategory": "MilitaryScience",
+   "AI_techRole": "SpaceWar",
+   "AI_projectRole": "Kinetics",
+   "researchCost": 40000,
+   "prereqs": [
+      "Project_HPC4"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+{
+   "friendlyName": "Advanced Space Exploitation Studies",
+   "dataName": "Project_AdvancedSpaceExploitationStudies",
+   "techCategory": "SpaceScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 10000,
+   "prereqs": [
+      "SpaceMiningAdvanced"
+   ],
+   "effects": [
+      "Effect_SpaceMiningBonus5",
+      "",
+      ""
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": true,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+{
+   "friendlyName": "Advanced Automated Mining Complex",
+   "dataName": "Project_AdvancedAutomatedMiningComplex",
+   "techCategory": "SpaceScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 10000,
+   "prereqs": [
+      "SpaceMiningAdvanced"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+{
+   "friendlyName": "Advanced Outpost Mining Complex",
+   "dataName": "Project_AdvancedOutpostMiningComplex",
+   "techCategory": "SpaceScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 10000,
+   "prereqs": [
+      "SpaceMiningAdvanced"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+{
+   "friendlyName": "Advanced Settlement Mining Complex",
+   "dataName": "Project_AdvancedSettlementMiningComplex",
+   "techCategory": "SpaceScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 15000,
+   "prereqs": [
+      "SpaceMiningAdvanced"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+
+{
+   "friendlyName": "Advanced Colony Mining Complex",
+   "dataName": "Project_AdvancedColonyMiningComplex",
+   "techCategory": "SpaceScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 10000,
+   "prereqs": [
+      "SpaceMiningAdvanced"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+{
+   "friendlyName": "Advanced Automated Mining Complex MK II",
+   "dataName": "Project_AdvancedAutomatedMiningComplexII",
+   "techCategory": "SpaceScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 10000,
+   "prereqs": [
+      "SpaceMiningAdvanced2"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+{
+   "friendlyName": "Advanced Outpost Mining Complex MK II",
+   "dataName": "Project_AdvancedOutpostMiningComplexII",
+   "techCategory": "SpaceScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 10000,
+   "prereqs": [
+      "SpaceMiningAdvanced2"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+{
+   "friendlyName": "Advanced Settlement Mining Complex MK II",
+   "dataName": "Project_AdvancedSettlementMiningComplexII",
+   "techCategory": "SpaceScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 15000,
+   "prereqs": [
+      "SpaceMiningAdvanced2"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+{
+   "friendlyName": "Advanced Colony Mining Complex MK II",
+   "dataName": "Project_AdvancedColonyMiningComplexII",
+   "techCategory": "SpaceScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 10000,
+   "prereqs": [
+      "SpaceMiningAdvanced2"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},{
+   "friendlyName": "Exotic-Armor hardened Habitats",
+   "dataName": "Project_ExoticHardening",
+   "techCategory": "MilitaryScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "HabInfrastructure",
+   "researchCost": 20000,
+   "prereqs": [
+      "ExoticAlloys"
+   ],
+   "effects": [
+	"Effect_HabBombardmentDefenses"
+	],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+{
+   "friendlyName": "Advanced Hybrid Armor",
+   "dataName": "Project_AdvancedHybridArmor",
+   "techCategory": "MilitaryScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "HabInfrastructure",
+   "researchCost": 40000,
+   "prereqs": [
+      "ExoticAlloys"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+{
+   "friendlyName": "Exotic-Hybrid-Armor hardened Habitats",
+   "dataName": "Project_ExoticHardeningII",
+   "techCategory": "MilitaryScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "HabInfrastructure",
+   "researchCost": 40000,
+   "prereqs": [
+      "Project_ExoticHardening"
+   ],
+   "effects": [
+	"Effect_HabBombardmentDefenses"
+	],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+{
+   "friendlyName": "Metal Irradiator",
+   "dataName": "Project_Irradiator",
+   "techCategory": "SpaceScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 20000,
+   "prereqs": [
+      "SpaceMiningAdvanced"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+{
+   "friendlyName": "Decoys",
+   "dataName": "Project_Decoys",
+   "techCategory": "MilitaryScience",
+   "AI_techRole": "SpaceWar",
+   "AI_projectRole": "Missiles",
+   "researchCost": 1200,
+   "prereqs": [
+      "AdvancedMissileWarfareDoctrine"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+}
+]

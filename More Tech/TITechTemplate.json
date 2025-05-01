@@ -1,0 +1,119 @@
+[
+ {
+   "friendlyName": "Exotic Matter Production",
+   "dataName": "ExoticMatterProduction",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_criticalTech": false,
+   "endGameTech": false,
+   "researchCost": 120000,
+   "prereqs": [
+      "TerawattFusionReactors",
+      "AntimatterMassProduction"
+   ]
+},
+ {
+   "friendlyName": "Exotic Matter Mass Production",
+   "dataName": "ExoticMatterMassProduction",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_criticalTech": false,
+   "endGameTech": false,
+   "researchCost": 160000,
+   "prereqs": [
+      "ExoticMatterProduction"
+   ]
+},
+ {
+   "friendlyName": "Exotic-Antimatter Spiked Fusion",
+   "dataName": "ExoticAntimatterSpikedFusion",
+   "techCategory": "Energy",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_criticalTech": false,
+   "endGameTech": false,
+   "researchCost": 240000,
+   "prereqs": [
+      "AntimatterMassProduction",
+	  "ExoticMatterProduction"
+   ]
+},
+ {
+   "friendlyName": "Energy Matter Conversion",
+   "dataName": "EnergyMatterConversion",
+   "techCategory": "Energy",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_criticalTech": false,
+   "endGameTech": false,
+   "researchCost": 240000,
+   "prereqs": [
+	  "ExoticAlloys"
+   ]
+},
+ {
+   "friendlyName": "Advanced Plasma Weapons",
+   "dataName": "AdvancedPlasmaWeapons",
+   "techCategory": "MilitaryScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_criticalTech": false,
+   "endGameTech": false,
+   "researchCost": 80000,
+   "prereqs": [
+      "PlasmaWeapons",
+	  "ExoticMatterProduction"
+   ]
+},
+ {
+   "friendlyName": "Advanced Space Industrialisation",
+   "dataName": "SpaceMiningAdvanced",
+   "techCategory": "SpaceScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_criticalTech": false,
+   "endGameTech": false,
+   "researchCost": 100000,
+   "prereqs": [
+      "OurSpaceFuture",
+	  "AntimatterMassProduction"
+   ]
+},
+
+ {
+   "friendlyName": "Advanced Exotic-Hybrid Alloys",
+   "dataName": "ExoticAlloys",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_criticalTech": false,
+   "endGameTech": false,
+   "researchCost": 100000,
+   "prereqs": [
+      "ExoticMatterProduction"
+   ]
+},
+ {
+   "friendlyName": "Advanced exotics-based Space Industrialisation",
+   "dataName": "SpaceMiningAdvanced2",
+   "techCategory": "SpaceScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_criticalTech": false,
+   "endGameTech": false,
+   "researchCost": 150000,
+   "prereqs": [
+      "SpaceMiningAdvanced",
+	  "ExoticMatterMassProduction"
+   ]
+},
+ {
+   "friendlyName": "Future Tech Welfare",
+   "dataName": "FutureWelfare",
+   "techCategory": "LifeScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_criticalTech": false,
+   "endGameTech": true,
+   "researchCost": 200000,
+   "effects": [
+      "Effect_WelfareReduction_CO2_ppm",
+      "Effect_WelfareReduction_CH4_ppm",
+      "Effect_WelfareReduction_N2O_ppm",
+      ""
+   ]
+}
+]

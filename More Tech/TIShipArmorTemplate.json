@@ -1,0 +1,32 @@
+[
+ {
+   "dataName": "AdvancedHybridArmor",
+   "friendlyName": "Advanced Hybrid Armor",
+   "weightedBuildMaterials": {
+      "volatiles": 0.2,
+      "metals": 0.2,
+      "nobleMetals": 0.15,
+      "exotics": 0.15
+   },
+   "requiredProjectName": "Project_AdvancedHybridArmor",
+   "xRayHalfValue_cm": 3.8,
+   "baryonicHalfValue_cm": 9,
+   "density_kgm3": 1800,
+   "heatofVaporization_MJkg": 100,
+   "specialties": [
+      {
+         "armorSpecialty": "XRayResistance",
+         "value": 11.1
+      },
+      {
+         "armorSpecialty": "BaryonicResistance",
+         "value": 2.5
+      },
+      {
+         "armorSpecialty": "LaserResistance",
+         "value": 1.25
+      }
+   ],
+   "iconResource": "shipbuildericons/ICO_BoronCarbideArmor"
+}
+]
