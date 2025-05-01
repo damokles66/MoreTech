@@ -38,6 +38,88 @@
    "resourcesGranted": [],
 },
  {
+   "friendlyName": "Stealthy Signatures",
+   "dataName": "Project_MCU1",
+   "techCategory": "Xenology",
+   "AI_techRole": "SpaceWar",
+   "AI_projectRole": "Xenology",
+   "researchCost": 15000,
+   "prereqs": [
+      "OurSpaceFuture",
+	  "Project_MCU0"
+   ],
+   "effects": [
+      "Effect_MCUsageMasking"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionPrereq": [
+      "DestroyCouncil",
+      "ResistCouncil",
+      "ExploitCouncil",
+      "CooperateCouncil",
+      "EscapeCouncil",
+      "AppeaseCouncil"
+   ],
+   "factionAvailableChance": 100,
+   "factionAlways": "ExploitCouncil",
+   "initialUnlockChance": 80,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Reduced Signatures",
+   "dataName": "Project_MCU0",
+   "techCategory": "Xenology",
+   "AI_techRole": "SpaceWar",
+   "AI_projectRole": "Xenology",
+   "researchCost": 5000,
+   "prereqs": [
+      "IndustrializationofSpace"
+   ],
+   "effects": [
+      "Effect_MCUsageMasking"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionPrereq": [
+      "DestroyCouncil",
+      "ResistCouncil",
+      "ExploitCouncil",
+      "CooperateCouncil",
+      "EscapeCouncil",
+      "AppeaseCouncil"
+   ],
+   "factionAvailableChance": 100,
+   "factionAlways": "ExploitCouncil",
+   "initialUnlockChance": 80,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Pherocyte Analysis",
+   "dataName": "Project_Sniffing",
+   "techCategory": "Xenology",
+   "AI_techRole": "SpaceWar",
+   "AI_projectRole": "Xenology",
+   "researchCost": 500,
+   "prereqs": [
+      "Project_Pherocytes"
+   ],
+   "effects": [
+      "Effect_FixAlienThreatMeter"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": true,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 50,
+   "deltaUnlockChance": 50,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
    "friendlyName": "Exotic Matter Fuser",
    "dataName": "Project_EM_Fuser",
    "techCategory": "Materials",

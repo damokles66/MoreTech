@@ -8,8 +8,8 @@ TIHabModuleTemplate.displayName.OversizedSupercollider=Oversized Advanced Superc
 TIHabModuleTemplate.description.OversizedSupercollider=An oversizsted Supercollider that produces vast quantities of antimatter.
 TIHabModuleTemplate.displayName.Synthesiser=Synthesiser
 TIHabModuleTemplate.description.Synthesiser=An energy matter converter supplying the basic needs of an installation.
-TIHabModuleTemplate.displayName.E-AMFusionReactorFarm=E-AM Fusion Reactor Farm
-TIHabModuleTemplate.description.E-AMFusionReactorFarm=A huge fusion reactor that uses antimatter and exotic matter to produce vast amounts of power.
+TIHabModuleTemplate.displayName.E-AMFusionReactorFarm=EM-AM Reactor
+TIHabModuleTemplate.description.E-AMFusionReactorFarm=A huge exotic-anti matter reactor that produces vast amounts of power.
 TIHabModuleTemplate.displayName.ResearchLab=Research Lab
 TIHabModuleTemplate.description.ResearchLab=Research Lab
 

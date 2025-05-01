@@ -1,8 +1,15 @@
 
-TIProjectTemplate.displayName.Project_EAMFusionReactorFarm=Exotic Antimatter Fusion Reactor
-TIProjectTemplate.summary.Project_EAMFusionReactorFarm=A large scape fustion reactor
-TIProjectTemplate.description.Project_EAMFusionReactorFarm=A large scape fustion reactor
+TIProjectTemplate.displayName.Project_EAMFusionReactorFarm=Exotic-Antimatter Reactor
+TIProjectTemplate.summary.Project_EAMFusionReactorFarm=A large scale reactor using antimatter-exotic-matter reaction to create power.
+TIProjectTemplate.description.Project_EAMFusionReactorFarm=A large scale reactor using antimatter-exotic-matter reaction to create power.
 
+TIProjectTemplate.displayName.Project_MCU0=Reduced Signatures
+TIProjectTemplate.summary.Project_MCU0=We can reduce the signature footprint of our space-bound ships and stations.
+TIProjectTemplate.description.Project_MCU0=Using quite common principles of stealth and camouflage, we can reduce the visible footprint of our space efforts, thus reducing the scale of likelyhood of alien retaliation.
+
+TIProjectTemplate.displayName.Project_MCU1=Stealthy Signatures
+TIProjectTemplate.summary.Project_MCU1=We can reduce the signature footprint of our space-bound ships and stations even more.
+TIProjectTemplate.description.Project_MCU1=Using elaborate principles of stealth and camouflage, we can reduce the visible footprint of our space efforts, thus reducing the scale of likelyhood of alien retaliation.
 
 TIProjectTemplate.displayName.Project_Synthesiser=Synthesiser
 TIProjectTemplate.summary.Project_Synthesiser=Produces basic resources
@@ -12,6 +19,9 @@ TIProjectTemplate.displayName.Project_BSuperCollider=Advanced Supercollider
 TIProjectTemplate.summary.Project_BSuperCollider=An advanced Supercollider
 TIProjectTemplate.description.Project_BSuperCollider=An advanced Supercollider producing a larger amount of antimatter at the cost of some exotic matter.
 
+TIProjectTemplate.displayName.Project_Sniffing=Pherocyte Analysis
+TIProjectTemplate.summary.Project_Sniffing=Allows us to retrieve information about the alien stance from their Pherocyte emissions.
+TIProjectTemplate.description.Project_Sniffing=Updates the alian threat evaluation by analysing the Pherocyte found by us.
 
 TIProjectTemplate.displayName.Project_OSSuperCollider=Oversized Supercollider
 TIProjectTemplate.summary.Project_OSSuperCollider=An oversized Supercollider
@@ -33,13 +43,13 @@ TIProjectTemplate.displayName.Project_HPB4=Heavy Plasma Battery MKIV
 TIProjectTemplate.summary.Project_HPB4=Heavy Plasma Battery MKIV
 TIProjectTemplate.description.Project_HPB4=Heavy Plasma Battery MKIV
 
-TIProjectTemplate.displayName.Project_PC4=Plasma Cannon MKIV
-TIProjectTemplate.summary.Project_PC4=Plasma Cannon MKIV
-TIProjectTemplate.description.Project_PC4=Plasma Cannon MKIV
+TIProjectTemplate.displayName.Project_PC4=Heavy Plasma Cannon MKIV
+TIProjectTemplate.summary.Project_PC4=Heavy Plasma Cannon MKIV
+TIProjectTemplate.description.Project_PC4=Heavy Plasma Cannon MKIV
 
-TIProjectTemplate.displayName.Project_HPC4=Heavy Plasma Cannon MKIV
-TIProjectTemplate.summary.Project_HPC4=Heavy Plasma Cannon MKIV
-TIProjectTemplate.description.Project_HPC4=Heavy Plasma Cannon MKIV
+TIProjectTemplate.displayName.Project_HPC4=Super Heavy Plasma Cannon MKIV
+TIProjectTemplate.summary.Project_HPC4=Super Heavy Plasma Cannon MKIV
+TIProjectTemplate.description.Project_HPC4=Super Heavy Plasma Cannon MKIV
 
 TIProjectTemplate.displayName.Project_PB5=Plasma Battery MKV
 TIProjectTemplate.summary.Project_PB5=Plasma Battery MKV
@@ -49,13 +59,13 @@ TIProjectTemplate.displayName.Project_HPB5=Heavy Plasma Battery MKV
 TIProjectTemplate.summary.Project_HPB5=Heavy Plasma Battery MKV
 TIProjectTemplate.description.Project_HPB5=Heavy Plasma Battery MKV
 
-TIProjectTemplate.displayName.Project_PC5=Plasma Cannon MKV
-TIProjectTemplate.summary.Project_PC5=Plasma Cannon MKV
-TIProjectTemplate.description.Project_PC5=Plasma Cannon MKV
+TIProjectTemplate.displayName.Project_PC5=Heavy Plasma Cannon MKV
+TIProjectTemplate.summary.Project_PC5=Heavy Plasma Cannon MKV
+TIProjectTemplate.description.Project_PC5=Heavy Plasma Cannon MKV
 
-TIProjectTemplate.displayName.Project_HPC5=Heavy Plasma Cannon MKV
-TIProjectTemplate.summary.Project_HPC5=Heavy Plasma Cannon MKV
-TIProjectTemplate.description.Project_HPC5=Heavy Plasma Cannon MKV
+TIProjectTemplate.displayName.Project_HPC5=Super Heavy Plasma Cannon MKV
+TIProjectTemplate.summary.Project_HPC5=Super Heavy Plasma Cannon MKV
+TIProjectTemplate.description.Project_HPC5=Super Heavy Plasma Cannon MKV
 
 TIProjectTemplate.displayName.Project_ResearchLab=Research Laboratory
 TIProjectTemplate.summary.Project_ResearchLab=Research Laboratory

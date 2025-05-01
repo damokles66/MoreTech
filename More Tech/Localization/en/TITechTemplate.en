@@ -8,10 +8,10 @@ TITechTemplate.summary.ExoticMatterMassProduction=Constructing modules that prod
 TITechTemplate.quote.ExoticMatterMassProduction=<skip/>
 TITechTemplate.description.ExoticMatterMassProduction=Constructing modules that produce large amounts of exotic matter.
 
-TITechTemplate.displayName.ExoticAntimatterSpikedFusion=Exotic Antimatter Spiked Fusion
-TITechTemplate.summary.ExoticAntimatterSpikedFusion=Constructing even larger fusion reactors
+TITechTemplate.displayName.ExoticAntimatterSpikedFusion=Exotic-Antimatter Reactions
+TITechTemplate.summary.ExoticAntimatterSpikedFusion=Use the aliens exotic matter in matter-antimatter reactions.
 TITechTemplate.quote.ExoticAntimatterSpikedFusion=<skip/>
-TITechTemplate.description.ExoticAntimatterSpikedFusion==Constructing even larger fusion reactors
+TITechTemplate.description.ExoticAntimatterSpikedFusion=Construct a new type of station power generator.
 
 TITechTemplate.displayName.EnergyMatterConversion=Energy Matter Conversion
 TITechTemplate.summary.EnergyMatterConversion=Constructing modules that allow the production of basis resources with energy.
