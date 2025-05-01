@@ -16,7 +16,5 @@
 - Two projects reducing MCU signature for alien hate without Pherocryte Analysis
 
 ## New Ship-Equipment
-- Advanced plasma cannons
-    - MKIV (on par with alien plasma)
-    - MKV (~25% more effective than alien plasma)
+- Advanced plasma cannons (MK IV + MK V)
 - Advanced Hybrid Armor
