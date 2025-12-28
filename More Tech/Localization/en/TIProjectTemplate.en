@@ -135,3 +135,6 @@ TIProjectTemplate.description.Project_AdvancedNanofacturingComplex=An advanced N
 TIProjectTemplate.displayName.Project_EAMSolarFarm=EM/AM-Solar Farm Array
 TIProjectTemplate.summary.Project_EAMSolarFarm=An advanced Solar power Farm using antimatter and exotic matter for increased power output.
 TIProjectTemplate.description.Project_EAMSolarFarm=An advanced Solar power Farm using antimatter and exotic matter for increased power output.
+
+TIProjectTemplate.displayName.Project_Lorien=Project Lorien
+TIProjectTemplate.summary.Project_Lorien=An advanced project to extend the life expenctancy of our councilors.
