@@ -7,11 +7,12 @@ New Habs:
 [list]
 [*]Early tier-1 research lab providing 15 research
 [*]More powerful fusion generator that uses exotic matter and antimatter to produce vast amounts of power, which is good as the other modules require a lot of power.
-[*]Exotic matter production: uses antimatter and a lot of power to generate exotic matter
+[*]More powerful solar farm that uses exotic matter and antimatter to produce vast amounts of power.
+[*]Exotic matter production: uses antimatter and a lot of power to generate exotic matter &lt;*!* - note see below&gt;
 [*]More Antimatter production: upgrades of the supercollider, using exotic matter for even more antimatter production
 [*]Synthesiser: A matter-energy converter that generates basic resources for a hab
 [*]Metal Irradiator: Turns metals and noble metals into fissible
-[*]Six advanced Mining-Habs (two per tier)  that consume exotics and/or antimatter for increased yield &lt;*!*&gt; important note see bottom&lt;*!*&gt;
+[*]Six advanced Mining-Habs (two per tier)  that consume exotics and/or antimatter for increased yield
 [*]An advanced Nanofactoring complex using exotic matter to produce more money an improve buildtime
 [/list]
 
@@ -20,16 +21,19 @@ Projects
 [*]Future-Tech: Welfare providing increased welfare reduction of global warming.
 [*]Repeatable faction project: Advanced Space Exploitation Studies (5% Space Mining boost)
 [*]Two projects reducing hab bombing damage
+[*]Two projects reducing MCU signature for alien hate without Pherocryte Analysis
+[*]Repeatable project to update the alien threat meter
 [/list]
 
 Ship-Equipment
 [list]
-[*]Advanced plasma cannons
-[*]MKIV (on par with alien plasma)
-[*]MKV (~25% more effective than alien plasma)
+[*]Advanced plasma cannons (MKIV + MKV)
 [*]Advanced Hybrid Armor
 [/list]
-</Description>
+
+(*)The exotics production means you will end up outproducing the aliens in this. To counteract this you can use [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3165648550] More Exotics for Aliens [/url] to boost their production as well.
+
+For a change in balance regarding the vanilla buildings you can check out [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2888192881] Scale Up[/url]</Description>
   <IconFileName>More Tech.png</IconFileName>
   <Tags />
 </WorkshopItemInfo>

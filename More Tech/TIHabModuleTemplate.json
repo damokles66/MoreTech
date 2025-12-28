@@ -76,7 +76,7 @@
    "reserved": 0,
    "baseMass_tons": 960,
    "buildTime_Days": 180,
-   "incomeMoney_month": 5800,
+   "incomeMoney_month": 4500,
    "incomeInfluence_month": 0,
    "incomeOps_month": 0,
    "incomeResearch_month": 0,
@@ -89,15 +89,21 @@
    "spaceCombatValue": 0,
    "constructionTimeModifier": 0.5,
    "miningModifier": 0,
-   "techBonuses": [],
+   "techBonuses": [
+      {
+         "category": "Materials",
+         "bonus": 0.04
+      }
+   ],  
    "specialRules": [
+      "LEOBonusEconomy",
       "CanFoundTier3Habs",
       "CanFoundTier2Habs",
       "CanFoundTier1Habs",
-      "",
-      "",
-      ""
+      "MoneyIfNotBuilding",
+      "TechBonusDiminishingReturns"
    ],
+   "specialRulesValue": 0.05,
    "supportMaterials_month": {
       "money": 20,
       "water": 10,
@@ -352,6 +358,66 @@
    "alertWorthy": false,
    "alienModule": false,
    "objectiveModule": false
+},
+ {
+   "dataName": "EAMSolarFarm",
+   "friendlyName": "EM/AM-Solar Farm",
+   "coreModule": false,
+   "habType": "Any",
+   "onePerHab": false,
+   "automated": false,
+   "allowsShipConstruction": false,
+   "allowsResupply": false,
+   "mine": false,
+   "noBuild": false,
+   "destroyed": false,
+   "tier": 3,
+   "upgradesFromName": "SolarFarm",
+   "requiredProjectName": "Project_EAMSolarFarm",
+   "crew": 25,
+   "power": 2400,
+   "reserved": 0,
+   "baseMass_tons": 600,
+   "buildTime_Days": 90,
+   "incomeMoney_month": 0,
+   "incomeInfluence_month": 0,
+   "incomeOps_month": 0,
+   "incomeResearch_month": 0,
+   "incomeProjects": 0,
+   "missionControl": 0,
+   "incomeVolatiles_month": 0,
+   "incomeMetals_month": 0,
+   "incomeNobles_month": 0,
+   "incomeFissiles_month": 0,
+   "incomeAntimatter_month": 0,
+   "incomeExotics_month": 0,
+   "spaceCombatValue": 0,
+   "constructionTimeModifier": 1,
+   "miningModifier": 0,
+   "controlPointCapacity": 0,
+   "techBonuses": [],
+   "specialRules": [
+      "Solar_Power_Variable_Output"
+   ],
+   "supportMaterials_month": {
+      "money": 60,
+	  "antimatter": 0.001,
+      "exotics": 0.001
+   },
+   "weightedBuildMaterials": {
+      "water": 0,
+      "volatiles": 0.2,
+      "metals": 0.75,
+      "nobleMetals": 0.05
+   },
+   "baseIconResource": "habmodules/base_T3_SolarFarm",
+   "stationIconResource": "habmodules/station_T3_SolarFarm",
+   "stationModelResource": "habmodules/station_T3_SolarFarm_Module",
+   "stationDestructionResource": "habmodules/stationdestruction_T3_generic",
+   "alertWorthy": false,
+   "alienModule": false,
+   "objectiveModule": false,
+   "disable": false
 },
 {
    "dataName": "E-AMFusionReactorFarm",
