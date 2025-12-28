@@ -657,5 +657,26 @@
    "deltaUnlockChance": 15,
    "maxUnlockChance": 100,
    "resourcesGranted": []
-}
+},
+ {
+   "friendlyName": "Project Lorien",
+   "dataName": "Project_Lorien",
+   "techCategory": "LifeScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_projectRole": "Councilors",
+   "researchCost": 50000,
+   "prereqs": [
+      "DesignerLifeforms",
+   ],
+   "effects": [
+      "Effect_LifeExtension20"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": true,
+   "factionAvailableChance": 40,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
 ]
