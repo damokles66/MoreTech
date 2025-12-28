@@ -1,0 +1,14 @@
+[
+ {
+   "dataName": "Effect_LifeExtension20",
+   "operation": "Additive",
+   "value": 20,
+   "effectTarget": "AllHumanFactions",
+   "effectDuration": "permanent",
+   "stackable": true,
+   "duration_months": -1,
+   "contexts": [
+      "HumanLifespan"
+   ]
+}
+]
