@@ -18,6 +18,29 @@
     "maxUnlockChance": 100,
     "resourcesGranted": [],
   },
+  {
+    "friendlyName": "Reduce Alien hate",
+    "dataName": "Project_AlienHate",
+    "techCategory": "Xenology",
+    "AI_techRole": "SpaceDevelopment",
+    "AI_projectRole": "Research",
+    "researchCost": 10000,
+    "prereqs": [
+      "Project_HydraInterrogation"
+    ],
+	"altPrereq0": "Project_HydraDiplomacy",
+    "effects": [
+	   "Effect_FixAlienThreatMeter",
+       "Effect_SubstractAlienHate5"
+    ],
+    "oneTimeGlobally": false,
+    "repeatable": true,
+    "factionAvailableChance": 100,
+    "initialUnlockChance": 100,
+    "deltaUnlockChance": 6,
+    "maxUnlockChance": 100,
+    "resourcesGranted": [],
+  },
  {
    "friendlyName": "E-AM Solar Power Farm",
    "dataName": "Project_EAMSolarFarm",

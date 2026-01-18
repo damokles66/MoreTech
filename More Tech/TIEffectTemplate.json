@@ -1,14 +1,11 @@
 [
  {
-   "dataName": "Effect_LifeExtension20",
+   "dataName": "Effect_SubstractAlienHate5",
+   "instantEffect": "LoseAlienHate",
    "operation": "Additive",
-   "value": 20,
-   "effectTarget": "AllHumanFactions",
-   "effectDuration": "permanent",
-   "stackable": true,
-   "duration_months": -1,
-   "contexts": [
-      "HumanLifespan"
-   ]
+   "value": 5,
+   "effectTarget": "SourceFaction",
+   "effectDuration": "instant",
+   "duration_months": -1
 }
 ]

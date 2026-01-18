@@ -138,3 +138,6 @@ TIProjectTemplate.description.Project_EAMSolarFarm=An advanced Solar power Farm 
 
 TIProjectTemplate.displayName.Project_Lorien=Project Lorien
 TIProjectTemplate.summary.Project_Lorien=An advanced project to extend the life expenctancy of our councilors.
+
+TIProjectTemplate.displayName.Project_AlienHate=Alien Aggression Management
+TIProjectTemplate.summary.Project_AlienHate=We use our understanding of the aliens to mitigate their aggression towards us.
