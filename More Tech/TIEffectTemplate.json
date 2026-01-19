@@ -7,5 +7,17 @@
    "effectTarget": "SourceFaction",
    "effectDuration": "instant",
    "duration_months": -1
+},
+ {
+   "dataName": "Effect_LifeExtension20",
+   "operation": "Additive",
+   "value": 20,
+   "effectTarget": "SourceFaction",
+   "effectDuration": "permanent",
+   "stackable": true,
+   "duration_months": -1,
+   "contexts": [
+      "HumanLifespan"
+   ]
 }
 ]

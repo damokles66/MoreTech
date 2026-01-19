@@ -30,7 +30,7 @@
     ],
 	"altPrereq0": "Project_HydraDiplomacy",
     "effects": [
-	   "Effect_FixAlienThreatMeter",
+       "Effect_FixAlienThreatMeter",
        "Effect_SubstractAlienHate5"
     ],
     "oneTimeGlobally": false,
