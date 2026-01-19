@@ -59,7 +59,8 @@
    "researchCost": 80000,
    "prereqs": [
       "PlasmaWeapons",
-	  "ExoticMatterProduction"
+	  "ExoticMatterProduction",
+      "Coilguns"
    ]
 },
  {

@@ -282,7 +282,8 @@
    "AI_projectRole": "Kinetics",
    "researchCost": 20000,
    "prereqs": [
-      "AdvancedPlasmaWeapons"
+      "AdvancedPlasmaWeapons",
+	  "Project_PlasmaBatteryMk3"
    ],
    "oneTimeGlobally": false,
    "repeatable": false,
@@ -300,7 +301,8 @@
    "AI_projectRole": "Kinetics",
    "researchCost": 20000,
    "prereqs": [
-      "AdvancedPlasmaWeapons"
+      "AdvancedPlasmaWeapons",
+	  "Project_PlasmaBatteryMk3"
    ],
    "oneTimeGlobally": false,
    "repeatable": false,
@@ -318,7 +320,8 @@
    "AI_projectRole": "Kinetics",
    "researchCost": 20000,
    "prereqs": [
-      "AdvancedPlasmaWeapons"
+      "AdvancedPlasmaWeapons",
+	  "Project_PlasmaCannonMk3"
    ],
    "oneTimeGlobally": false,
    "repeatable": false,
@@ -336,7 +339,8 @@
    "AI_projectRole": "Kinetics",
    "researchCost": 20000,
    "prereqs": [
-      "AdvancedPlasmaWeapons"
+      "AdvancedPlasmaWeapons",
+	  "Project_PlasmaCannonMk3"
    ],
    "oneTimeGlobally": false,
    "repeatable": false,
