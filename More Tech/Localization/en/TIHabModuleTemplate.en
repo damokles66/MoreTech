@@ -35,3 +35,6 @@ TIHabModuleTemplate.displayName.AdvancedNanofacturingComplex=Advanced Nanofactur
 TIHabModuleTemplate.description.AdvancedNanofacturingComplex=An advanced Nano factory
 TIHabModuleTemplate.displayName.EAMSolarFarm=EM/AM-Solar Farm Array
 TIHabModuleTemplate.description.EAMSolarFarm=An advanced Solar Power Farm using antimatter and exotic matter for improved power output.
+
+TIHabModuleTemplate.displayName.Noblelizer=Noblelizer
+TIHabModuleTemplate.description.Noblelizer=Using some antimatter and exotics, turns metals and fizziles into noble metal

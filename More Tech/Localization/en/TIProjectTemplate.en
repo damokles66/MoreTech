@@ -119,6 +119,10 @@ TIProjectTemplate.displayName.Project_Irradiator=Metal Irradiator
 TIProjectTemplate.summary.Project_Irradiator=Metal Irradiator
 TIProjectTemplate.description.Project_Irradiator=An irradiator using antimatter and power to irradiate large quantities of metal producing more fizzible materials.
 
+TIProjectTemplate.displayName.Project_Irradiator=Metal Noblelizer
+TIProjectTemplate.summary.Project_Irradiator=Metal Noblelizer
+TIProjectTemplate.description.Project_Irradiator=Using some antimatter and exotics, turns metals and fizziles into noble metal
+
 TIProjectTemplate.displayName.Project_Decoys=Decoys
 TIProjectTemplate.summary.Project_Decoys=Decoys
 TIProjectTemplate.description.Project_Decoys=Cheap sturdy missiles with little damage potential used to draw enemy point defence fire.

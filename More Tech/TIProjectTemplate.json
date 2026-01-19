@@ -650,6 +650,25 @@
    "resourcesGranted": []
 },
 {
+   "friendlyName": "Metal Noblelizer",
+   "dataName": "Project_Noblelizer",
+   "techCategory": "SpaceScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 20000,
+   "prereqs": [
+      "SpaceMiningAdvanced",
+	  "ExoticMatterProduction"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+{
    "friendlyName": "Metal Irradiator",
    "dataName": "Project_Irradiator",
    "techCategory": "SpaceScience",
