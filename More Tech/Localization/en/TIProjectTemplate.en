@@ -161,14 +161,14 @@ TIProjectTemplate.summary.Project_MiningFissiles4=<habmodule>
 TIProjectTemplate.displayName.Project_MiningFissiles5=Advanced Deep Core Fissiles Mine
 TIProjectTemplate.summary.Project_MiningFissiles5=<habmodule>
 
-TIProjectTemplate.displayName.Project_MiningNobles2=Basic Deep Core Nobles Mine
-TIProjectTemplate.summary.Project_MiningNobles2=<habmodule>
-TIProjectTemplate.displayName.Project_MiningNobles3=Deep Core Nobles Mine
-TIProjectTemplate.summary.Project_MiningNobles3=<habmodule>
-TIProjectTemplate.displayName.Project_MiningNobles4=Improved Deep Core Nobles Mine
-TIProjectTemplate.summary.Project_MiningNobles4=<habmodule>
-TIProjectTemplate.displayName.Project_MiningNobles5=Advanced Deep Core Nobles Mine
-TIProjectTemplate.summary.Project_MiningNobles5=<habmodule>
+TIProjectTemplate.displayName.Project_MiningNoble2=Basic Deep Core Nobles Mine
+TIProjectTemplate.summary.Project_MiningNoble2=<habmodule>
+TIProjectTemplate.displayName.Project_MiningNoble3=Deep Core Nobles Mine
+TIProjectTemplate.summary.Project_MiningNoble3=<habmodule>
+TIProjectTemplate.displayName.Project_MiningNoble4=Improved Deep Core Nobles Mine
+TIProjectTemplate.summary.Project_MiningNoble4=<habmodule>
+TIProjectTemplate.displayName.Project_MiningNoble5=Advanced Deep Core Nobles Mine
+TIProjectTemplate.summary.Project_MiningNoble5=<habmodule>
 
 TIProjectTemplate.displayName.Project_MiningMetal2=Basic Deep Core Metal Mine
 TIProjectTemplate.summary.Project_MiningMetal2=<habmodule>
