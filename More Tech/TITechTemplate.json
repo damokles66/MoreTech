@@ -44,9 +44,11 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": false,
    "endGameTech": false,
-   "researchCost": 240000,
+   "researchCost": 1200000,
    "prereqs": [
-	  "ExoticAlloys"
+	  "ExoticAlloys",
+	  "Admin5",
+	  "AdvancedPlasmaWeapons"
    ]
 },
  {
