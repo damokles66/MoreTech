@@ -60,7 +60,8 @@
       "volatiles": 0.1,
       "metals": 0.5,
       "nobleMetals": 0.38,
-      "exotics": 0.25
+      "exotics": 0.25,
+	  "antimatter": 0.25
    },
    "iconResource": "newshipbuildericons/ICO_PlasmaBatteryMk5",
    "modelResource": "shipweapons/medium_plasma_battery",
@@ -132,7 +133,8 @@
       "volatiles": 0.1,
       "metals": 0.5,
       "nobleMetals": 0.38,
-      "exotics": 1.0
+      "exotics": 1.0,
+	  "antimatter": 1.0
    },
    "iconResource": "newshipbuildericons/ICO_HeavyPlasmaBatteryMk5",
    "modelResource": "shipweapons/large_plasma_battery",
@@ -204,7 +206,8 @@
       "volatiles": 0.1,
       "metals": 0.5,
       "nobleMetals": 0.38,
-      "exotics": 1.0
+      "exotics": 1.0,
+	  "antimatter": 1.0
    },
    "iconResource": "newshipbuildericons/ICO_PlasmaCannonMk5",
    "modelResource": "shipweapons/large_plasma_cannon",
@@ -276,7 +279,8 @@
       "volatiles": 0.1,
       "metals": 0.5,
       "nobleMetals": 0.38,
-      "exotics": 1.0
+      "exotics": 1.0,
+	  "antimatter": 1.0
    },
    "iconResource": "newshipbuildericons/ICO_HeavyPlasmaCannonMk5",
    "modelResource": "shipweapons/huge_plasma_cannon",

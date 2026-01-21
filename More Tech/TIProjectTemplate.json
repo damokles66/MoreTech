@@ -356,9 +356,10 @@
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
    "AI_projectRole": "Kinetics",
-   "researchCost": 40000,
+   "researchCost": 100000,
    "prereqs": [
-      "Project_PB4"
+      "Project_PB4",
+	  "PlasmaWeaponsMKV"
    ],
    "oneTimeGlobally": false,
    "repeatable": false,
@@ -374,9 +375,10 @@
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
    "AI_projectRole": "Kinetics",
-   "researchCost": 40000,
+   "researchCost": 100000,
    "prereqs": [
-      "Project_HPB4"
+      "Project_HPB4",
+	  "PlasmaWeaponsMKV"
    ],
    "oneTimeGlobally": false,
    "repeatable": false,
@@ -392,9 +394,10 @@
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
    "AI_projectRole": "Kinetics",
-   "researchCost": 40000,
+   "researchCost": 100000,
    "prereqs": [
-      "Project_PC4"
+      "Project_PC4",
+	  "PlasmaWeaponsMKV"
    ],
    "oneTimeGlobally": false,
    "repeatable": false,
@@ -410,9 +413,10 @@
    "techCategory": "MilitaryScience",
    "AI_techRole": "SpaceWar",
    "AI_projectRole": "Kinetics",
-   "researchCost": 40000,
+   "researchCost": 100000,
    "prereqs": [
-      "Project_HPC4"
+      "Project_HPC4",
+	  "PlasmaWeaponsMKV"
    ],
    "oneTimeGlobally": false,
    "repeatable": false,

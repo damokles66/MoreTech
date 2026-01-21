@@ -18,10 +18,15 @@ TITechTemplate.summary.EnergyMatterConversion=Constructing modules that allow th
 TITechTemplate.quote.EnergyMatterConversion=<skip/>
 TITechTemplate.description.EnergyMatterConversion=Constructing modules that allow the production of basis resources with energy.
 
-TITechTemplate.displayName.AdvancedPlasmaWeapons=Advanced Plasma Weapons
-TITechTemplate.summary.AdvancedPlasmaWeapons=Advanced Plasma Weapons
+TITechTemplate.displayName.AdvancedPlasmaWeapons=Improved Plasma Weapons
+TITechTemplate.summary.AdvancedPlasmaWeapons=Improved Plasma Weapons
 TITechTemplate.quote.AdvancedPlasmaWeapons=<skip/>
-TITechTemplate.description.AdvancedPlasmaWeapons=Advanced Plasma Weapons
+TITechTemplate.description.AdvancedPlasmaWeapons=Improved Plasma Weapons
+
+TITechTemplate.displayName.PlasmaWeaponsMKV=Advanced Plasma Weapons
+TITechTemplate.summary.PlasmaWeaponsMKV=Advanced Plasma Weapons
+TITechTemplate.quote.PlasmaWeaponsMKV=<skip/>
+TITechTemplate.description.PlasmaWeaponsMKV=Advanced Plasma Weapons
 
 TITechTemplate.displayName.FutureWelfare=Future Welfare
 TITechTemplate.summary.FutureWelfare=Future Welfare
