@@ -1385,7 +1385,7 @@
    "constructionTimeModifier": 1,
    "miningModifier": 0,
    "techBonuses": [],
-   "upgradesFromName":"WaterMine2"
+   "upgradesFromName":"WaterMine2",
    "supportMaterials_month": {
       "money": 60,
       "water": 0,
@@ -1426,7 +1426,7 @@
    "reserved": 0,
    "baseMass_tons": 100,
    "buildTime_Days": 40,
-   "upgradesFromName":"WaterMine3"
+   "upgradesFromName":"WaterMine3",
    "incomeMoney_month": 0,
    "incomeInfluence_month": 0,
    "incomeOps_month": 0,
@@ -1479,7 +1479,7 @@
    "destroyed": false,
    "tier": 3,
    "requiredProjectName": "Project_MiningWater5",
-   "upgradesFromName":"WaterMine4"
+   "upgradesFromName":"WaterMine4",
    "crew": 200,
    "power": -2000,
    "reserved": 0,
@@ -1598,7 +1598,7 @@
    "crew": 200,
    "power": -200,
    "reserved": 0,
-   "upgradesFromName":"VolatilesMine2"
+   "upgradesFromName":"VolatilesMine2",
    "baseMass_tons": 3000,
    "buildTime_Days": 160,
    "incomeMoney_month": 0,
@@ -1655,7 +1655,7 @@
    "crew": 200,
    "power": -700,
    "reserved": 0,
-   "upgradesFromName":"VolatilesMine3"
+   "upgradesFromName":"VolatilesMine3",
    "baseMass_tons": 100,
    "buildTime_Days": 40,
    "incomeMoney_month": 0,
@@ -1713,7 +1713,7 @@
    "crew": 200,
    "power": -2000,
    "reserved": 0,
-   "upgradesFromName":"VolatilesMine4"
+   "upgradesFromName":"VolatilesMine4",
    "baseMass_tons": 100,
    "buildTime_Days": 40,
    "incomeMoney_month": 0,
@@ -1828,7 +1828,7 @@
    "crew": 200,
    "power": -200,
    "reserved": 0,
-   "upgradesFromName":"MetalMine2"
+   "upgradesFromName":"MetalMine2",
    "baseMass_tons": 3000,
    "buildTime_Days": 160,
    "incomeMoney_month": 0,
@@ -1884,7 +1884,7 @@
    "crew": 200,
    "power": -700,
    "reserved": 0,
-   "upgradesFromName":"MetalMine3"
+   "upgradesFromName":"MetalMine3",
    "baseMass_tons": 100,
    "buildTime_Days": 40,
    "incomeMoney_month": 0,
@@ -1941,7 +1941,7 @@
    "crew": 200,
    "power": -2000,
    "reserved": 0,
-   "upgradesFromName":"MetalMine4"
+   "upgradesFromName":"MetalMine4",
    "baseMass_tons": 100,
    "buildTime_Days": 40,
    "incomeMoney_month": 0,
@@ -2055,7 +2055,7 @@
    "crew": 200,
    "power": -200,
    "reserved": 0,
-   "upgradesFromName":"NobleMine2"
+   "upgradesFromName":"NobleMine2",
    "baseMass_tons": 3000,
    "buildTime_Days": 160,
    "incomeMoney_month": 0,
@@ -2111,7 +2111,7 @@
    "crew": 200,
    "power": -700,
    "reserved": 0,
-   "upgradesFromName":"NobleMine3"
+   "upgradesFromName":"NobleMine3",
    "baseMass_tons": 100,
    "buildTime_Days": 40,
    "incomeMoney_month": 0,
@@ -2168,7 +2168,7 @@
    "crew": 200,
    "power": -2000,
    "reserved": 0,
-   "upgradesFromName":"NobleMine4"
+   "upgradesFromName":"NobleMine4",
    "baseMass_tons": 100,
    "buildTime_Days": 40,
    "incomeMoney_month": 0,
@@ -2278,7 +2278,7 @@
    "crew": 200,
    "power": -200,
    "reserved": 0,
-   "upgradesFromName":"FissilesMine2"
+   "upgradesFromName":"FissilesMine2",
    "baseMass_tons": 3000,
    "buildTime_Days": 160,
    "incomeMoney_month": 0,
@@ -2335,7 +2335,7 @@
    "crew": 200,
    "power": -700,
    "reserved": 0,
-   "upgradesFromName":"FissilesMine3"
+   "upgradesFromName":"FissilesMine3",
    "baseMass_tons": 100,
    "buildTime_Days": 40,
    "incomeMoney_month": 0,
@@ -2393,7 +2393,7 @@
    "crew": 200,
    "power": -2000,
    "reserved": 0,
-   "upgradesFromName":"FissilesMine4"
+   "upgradesFromName":"FissilesMine4",
    "baseMass_tons": 100,
    "buildTime_Days": 40,
    "incomeMoney_month": 0,
