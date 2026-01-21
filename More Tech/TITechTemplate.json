@@ -100,7 +100,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": false,
    "endGameTech": false,
-   "researchCost": 100000,
+   "researchCost": 400000,
    "prereqs": [
       "ExoticMatterProduction"
    ]
@@ -159,6 +159,66 @@
       "Admin4",
 	  "AntimatterMassProduction",
 	  "ExoticMatterProduction"
+   ]
+},
+ {
+   "friendlyName": "Basic Deep Core Mining",
+   "dataName": "Mining2",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_criticalTech": false,
+   "endGameTech": false,
+   "researchCost": 20000,
+   "prereqs": [
+      "IndustrializationofSpace",
+	  "SuperAlloys",
+	  "OrbitalRingHabs",
+	  "SettlementHabs"
+   ]
+},
+ {
+   "friendlyName": "Deep Core Mining",
+   "dataName": "Mining3",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_criticalTech": false,
+   "endGameTech": false,
+   "researchCost": 20000,
+   "prereqs": [
+      "Accelerando",
+	  "Mining2",
+	  "OrbitalTorusHabs",
+	  "ColonyHabs",
+	  "Diamondoids"
+	  
+   ]
+},
+ {
+   "friendlyName": "Improved Deep Core Mining",
+   "dataName": "Mining4",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_criticalTech": false,
+   "endGameTech": false,
+   "researchCost": 400000,
+   "prereqs": [
+      "SpaceMiningAdvanced",
+	  "Mining3"
+   ]
+},
+ {
+   "friendlyName": "Advanced Deep Core Mining",
+   "dataName": "Mining5",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_criticalTech": false,
+   "endGameTech": false,
+   "researchCost": 400000,
+   "prereqs": [
+      "SpaceMiningAdvanced2",
+	  "Mining4",
+	  "ExoticAlloys"
+	  
    ]
 }
 ]

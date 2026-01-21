@@ -510,7 +510,7 @@
    "techCategory": "SpaceScience",
    "AI_techRole": "SpaceDevelopment",
    "AI_projectRole": "SpaceResources",
-   "researchCost": 10000,
+   "researchCost": 20000,
    "prereqs": [
       "SpaceMiningAdvanced"
    ],
@@ -528,7 +528,7 @@
    "techCategory": "SpaceScience",
    "AI_techRole": "SpaceDevelopment",
    "AI_projectRole": "SpaceResources",
-   "researchCost": 10000,
+   "researchCost": 15000,
    "prereqs": [
       "SpaceMiningAdvanced2"
    ],
@@ -546,7 +546,7 @@
    "techCategory": "SpaceScience",
    "AI_techRole": "SpaceDevelopment",
    "AI_projectRole": "SpaceResources",
-   "researchCost": 10000,
+   "researchCost": 15000,
    "prereqs": [
       "SpaceMiningAdvanced2"
    ],
@@ -564,7 +564,7 @@
    "techCategory": "SpaceScience",
    "AI_techRole": "SpaceDevelopment",
    "AI_projectRole": "SpaceResources",
-   "researchCost": 15000,
+   "researchCost": 20000,
    "prereqs": [
       "SpaceMiningAdvanced2"
    ],
@@ -582,7 +582,7 @@
    "techCategory": "SpaceScience",
    "AI_techRole": "SpaceDevelopment",
    "AI_projectRole": "SpaceResources",
-   "researchCost": 10000,
+   "researchCost": 30000,
    "prereqs": [
       "SpaceMiningAdvanced2"
    ],
@@ -742,7 +742,7 @@
    ],
    "oneTimeGlobally": false,
    "repeatable": false,
-   "factionAvailableChance": 40,
+   "factionAvailableChance": 100,
    "initialUnlockChance": 100,
    "deltaUnlockChance": 5,
    "maxUnlockChance": 100,
@@ -756,7 +756,7 @@
    "AI_projectRole": "ControlPointCap",
    "researchCost": 100000,
    "prereqs": [
-      "Admin5",
+      "Admin4",
 	  "Project_AdministrationComplex"
    ],
    "oneTimeGlobally": false,
@@ -767,4 +767,379 @@
    "maxUnlockChance": 100,
    "resourcesGranted": []
 },
+ {
+   "friendlyName": "Project Water Mining 2",
+   "dataName": "Project_MiningWater2",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 2000,
+   "prereqs": [
+      "Mining2"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Project Volatiles Mining 2",
+   "dataName": "Project_MiningVolatiles2",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 2000,
+   "prereqs": [
+      "Mining2"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Project Metal Mining 2",
+   "dataName": "Project_MiningMetal2",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 2000,
+   "prereqs": [
+      "Mining2"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Project Noble Mining 2",
+   "dataName": "Project_MiningNoble2",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 2000,
+   "prereqs": [
+      "Mining2"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Project Fissiles Mining 2",
+   "dataName": "Project_MiningFissiles2",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 2000,
+   "prereqs": [
+      "Mining2"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Project Water Mining 3",
+   "dataName": "Project_MiningWater3",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 4000,
+   "prereqs": [
+      "Mining3",
+	  "Project_MiningWater2"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Project Volatiles Mining 3",
+   "dataName": "Project_MiningVolatiles3",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 4000,
+   "prereqs": [
+      "Mining3",
+	  "Project_MiningVolatiles2"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Project Metal Mining 3",
+   "dataName": "Project_MiningMetal3",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 4000,
+   "prereqs": [
+      "Mining3",
+	  "Project_MiningMetal2"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Project Noble Mining 3",
+   "dataName": "Project_MiningNoble3",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 4000,
+   "prereqs": [
+      "Mining3",
+	  "Project_MiningNoble2"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Project Fissiles Mining 3",
+   "dataName": "Project_MiningFissiles3",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 4000,
+   "prereqs": [
+      "Mining3",
+	  "Project_MiningFissiles2"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Project Water Mining 4",
+   "dataName": "Project_MiningWater4",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 25000,
+   "prereqs": [
+      "Mining4",
+	  "Project_MiningWater3"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Project Volatiles Mining 4",
+   "dataName": "Project_MiningVolatiles4",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 25000,
+   "prereqs": [
+      "Mining4",
+	  "Project_MiningVolatiles3"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Project Metal Mining 4",
+   "dataName": "Project_MiningMetal4",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 25000,
+   "prereqs": [
+      "Mining4",
+	  "Project_MiningMetal3"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Project Noble Mining 4",
+   "dataName": "Project_MiningNoble4",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 25000,
+   "prereqs": [
+      "Mining4",
+	  "Project_MiningNoble3"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Project Fissiles Mining 4",
+   "dataName": "Project_MiningFissiles4",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 25000,
+   "prereqs": [
+      "Mining4",
+	  "Project_MiningFissiles3"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Project Water Mining 5",
+   "dataName": "Project_MiningWater5",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 40000,
+   "prereqs": [
+      "Mining5",
+	  "Project_MiningWater4"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Project Volatiles Mining 5",
+   "dataName": "Project_MiningVolatiles5",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 40000,
+   "prereqs": [
+      "Mining5",
+	  "Project_MiningVolatiles4"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Project Metal Mining 5",
+   "dataName": "Project_MiningMetal5",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 40000,
+   "prereqs": [
+      "Mining5",
+	  "Project_MiningMetal4"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Project Noble Mining 5",
+   "dataName": "Project_MiningNoble5",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 40000,
+   "prereqs": [
+      "Mining5",
+	  "Project_MiningNoble4"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Project Fissiles Mining 5",
+   "dataName": "Project_MiningFissiles5",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 40000,
+   "prereqs": [
+      "Mining5",
+	  "Project_MiningFissiles4"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+}
 ]
