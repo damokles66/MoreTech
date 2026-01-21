@@ -116,5 +116,33 @@
       "Effect_WelfareReduction_N2O_ppm",
       ""
    ]
+},
+ {
+   "friendlyName": "Improved Spaceborn Administration",
+   "dataName": "Admin4",
+   "techCategory": "SocialScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_criticalTech": false,
+   "endGameTech": false,
+   "researchCost": 200000,
+   "prereqs": [
+	  "AntimatterMassProduction",
+	  "Accelerando",
+	  "AdministrationAlgorithms",
+   ]
+},
+ {
+   "friendlyName": "Advanced Spaceborn Administration",
+   "dataName": "Admin5",
+   "techCategory": "SocialScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_criticalTech": false,
+   "endGameTech": false,
+   "researchCost": 300000,
+   "prereqs": [
+      "Admin4",
+	  "AntimatterMassProduction",
+	  "ExoticMatterProduction"
+   ]
 }
 ]

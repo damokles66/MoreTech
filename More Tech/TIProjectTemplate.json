@@ -719,8 +719,46 @@
    ],
    "oneTimeGlobally": false,
    "repeatable": true,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 40,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Project AdminCenter",
+   "dataName": "Project_AdministrationCenter",
+   "techCategory": "SocialScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "ControlPointCap",
+   "researchCost": 150000,
+   "prereqs": [
+      "Admin5",
+	  "Project_AdministrationController",
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
    "factionAvailableChance": 40,
    "initialUnlockChance": 100,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "Project AdminControl",
+   "dataName": "Project_AdministrationController",
+   "techCategory": "SocialScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "ControlPointCap",
+   "researchCost": 100000,
+   "prereqs": [
+      "Admin5",
+	  "Project_AdministrationComplex"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 40,
    "deltaUnlockChance": 5,
    "maxUnlockChance": 100,
    "resourcesGranted": []

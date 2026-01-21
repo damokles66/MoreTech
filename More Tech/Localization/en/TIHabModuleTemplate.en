@@ -38,3 +38,9 @@ TIHabModuleTemplate.description.EAMSolarFarm=An advanced Solar Power Farm using 
 
 TIHabModuleTemplate.displayName.Noblelizer=Noblelizer
 TIHabModuleTemplate.description.Noblelizer=Using some antimatter and exotics, turns metals and fizziles into noble metal
+
+TIHabModuleTemplate.displayName.AdministrationController=Noblelizer
+TIHabModuleTemplate.description.AdministrationController=A large management center for a hab.
+
+TIHabModuleTemplate.displayName.AdministrationCenter=Noblelizer
+TIHabModuleTemplate.description.AdministrationCenter=A large management center for a hab.

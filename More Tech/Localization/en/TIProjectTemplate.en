@@ -145,3 +145,9 @@ TIProjectTemplate.summary.Project_Lorien=An advanced project to extend the life 
 
 TIProjectTemplate.displayName.Project_AlienHate=Alien Aggression Management
 TIProjectTemplate.summary.Project_AlienHate=We use our understanding of the aliens to mitigate their aggression towards us.
+
+TIProjectTemplate.displayName.Project_AdministrationController=Administration Controller
+TIProjectTemplate.summary.Project_AdministrationController=<habmodule>
+
+TIProjectTemplate.displayName.Project_AdministrationCenter=Administration Center
+TIProjectTemplate.summary.Project_AdministrationCenter=<habmodule>
