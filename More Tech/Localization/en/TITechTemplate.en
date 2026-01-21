@@ -62,3 +62,23 @@ TITechTemplate.displayName.Admin5=Advanced Spaceborn Administration
 TITechTemplate.summary.Admin5=Advanced Spaceborn Administration
 TITechTemplate.quote.Admin5=<skip/>
 TITechTemplate.description.Admin5=Final improvements of our administration habitats.
+
+TITechTemplate.displayName.Mining2=Basic Deep Core Mining
+TITechTemplate.summary.Mining2=Basic Deep Core Mining
+TITechTemplate.quote.Mining2=<skip/>
+TITechTemplate.description.Mining2=Allows construction of basic deep core mines and wells.
+
+TITechTemplate.displayName.Mining3=Deep Core Mining
+TITechTemplate.summary.Mining3=Deep Core Mining
+TITechTemplate.quote.Mining3=<skip/>
+TITechTemplate.description.Mining3=Allows construction of deep core mines and wells.
+
+TITechTemplate.displayName.Mining4=Improved Deep Core Mining
+TITechTemplate.summary.Mining4=Improved Deep Core Mining
+TITechTemplate.quote.Mining4=<skip/>
+TITechTemplate.description.Mining4=Allows construction of Improved deep core mines and wells.
+
+TITechTemplate.displayName.Mining5=Advanced Deep Core Mining
+TITechTemplate.summary.Mining5=Advanced Deep Core Mining
+TITechTemplate.quote.Mining5=<skip/>
+TITechTemplate.description.Mining5=Allows construction of Advanced deep core mines and wells.

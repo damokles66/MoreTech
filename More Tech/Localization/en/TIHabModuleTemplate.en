@@ -44,3 +44,48 @@ TIHabModuleTemplate.description.AdministrationController=A large management cent
 
 TIHabModuleTemplate.displayName.AdministrationCenter=Noblelizer
 TIHabModuleTemplate.description.AdministrationCenter=A large management center for a hab.
+
+TIHabModuleTemplate.displayName.WaterMine2=Basic Deepwater Well
+TIHabModuleTemplate.description.WaterMine2=A well supplying water.
+TIHabModuleTemplate.displayName.WaterMine3=Deepwater Well
+TIHabModuleTemplate.description.WaterMine3=A large well supplying water.
+TIHabModuleTemplate.displayName.WaterMine4=Improved Deepwater Well
+TIHabModuleTemplate.description.WaterMine4=A larger well supplying water.
+TIHabModuleTemplate.displayName.WaterMine5=Advanced Deepwater Well
+TIHabModuleTemplate.description.WaterMine5=An even larger well supplying water.
+
+TIHabModuleTemplate.displayName.VolatilesMine2=Basic Deep Core Volatiles Mine
+TIHabModuleTemplate.description.VolatilesMine2=A mine supplying Volatiles.
+TIHabModuleTemplate.displayName.VolatilesMine3=Deep Core Volatiles Mine
+TIHabModuleTemplate.description.VolatilesMine3=A deep mine supplying Volatiles.
+TIHabModuleTemplate.displayName.VolatilesMine4=Improved Deep Core Volatiles Mine
+TIHabModuleTemplate.description.VolatilesMine4=A deeper mine supplying Volatiles.
+TIHabModuleTemplate.displayName.VolatilesMine5=Advanced Deep Core Volatiles Mine
+TIHabModuleTemplate.description.VolatilesMine5=An even deeper mine supplying Volatiles.
+
+TIHabModuleTemplate.displayName.MetalMine2=Basic Deep Core Metal Mine
+TIHabModuleTemplate.description.MetalMine2=A mine supplying Volatiles.
+TIHabModuleTemplate.displayName.MetalMine3=Deep Core Metal Mine
+TIHabModuleTemplate.description.MetalMine3=A deep mine supplying Volatiles.
+TIHabModuleTemplate.displayName.MetalMine4=Improved Deep Core Metal Mine
+TIHabModuleTemplate.description.MetalMine4=A deeper mine supplying Volatiles.
+TIHabModuleTemplate.displayName.MetalMine5=Advanced Deep Core Metal Mine
+TIHabModuleTemplate.description.MetalMine5=An even deeper mine supplying Volatiles.
+
+TIHabModuleTemplate.displayName.NobleMine2=Basic Deep Core Nobles Mine
+TIHabModuleTemplate.description.NobleMine2=A mine supplying Volatiles.
+TIHabModuleTemplate.displayName.NobleMine3=Deep Core Nobles Mine
+TIHabModuleTemplate.description.NobleMine3=A deep mine supplying Volatiles.
+TIHabModuleTemplate.displayName.NobleMine4=Improved Deep Core Nobles Mine
+TIHabModuleTemplate.description.NobleMine4=A deeper mine supplying Volatiles.
+TIHabModuleTemplate.displayName.NobleMine5=Advanced Deep Core Nobles Mine
+TIHabModuleTemplate.description.NobleMine5=An even deeper mine supplying Volatiles.
+
+TIHabModuleTemplate.displayName.FissilesMine2=Basic Deep Core Fissiles Mine
+TIHabModuleTemplate.description.FissilesMine2=A mine supplying Fissiles.
+TIHabModuleTemplate.displayName.FissilesMine3=Deep Core Fissiles Mine
+TIHabModuleTemplate.description.FissilesMine3=A deep mine supplying Fissiles.
+TIHabModuleTemplate.displayName.FissilesMine4=Improved Deep Core Fissiles Mine
+TIHabModuleTemplate.description.FissilesMine4=A deeper mine supplying Fissiles.
+TIHabModuleTemplate.displayName.FissilesMine5=Advanced Deep Core Fissiles Mine
+TIHabModuleTemplate.description.FissilesMine5=An even deeper mine supplying Fissiles.
