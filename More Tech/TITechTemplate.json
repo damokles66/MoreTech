@@ -116,5 +116,14 @@
       "Effect_WelfareReduction_N2O_ppm",
       ""
    ]
+},
+ {
+   "friendlyName": "United Earth Ambitions",
+   "dataName": "MassCP",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_criticalTech": false,
+   "endGameTech": false,
+   "researchCost": 250000,
 }
 ]

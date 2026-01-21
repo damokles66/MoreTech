@@ -105,7 +105,7 @@
    ],
    "factionAvailableChance": 100,
    "factionAlways": "ExploitCouncil",
-   "initialUnlockChance": 80,
+   "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
    "maxUnlockChance": 100,
    "resourcesGranted": []
@@ -135,7 +135,7 @@
    ],
    "factionAvailableChance": 100,
    "factionAlways": "ExploitCouncil",
-   "initialUnlockChance": 80,
+   "initialUnlockChance": 0,
    "deltaUnlockChance": 5,
    "maxUnlockChance": 100,
    "resourcesGranted": []
@@ -722,6 +722,28 @@
    "factionAvailableChance": 40,
    "initialUnlockChance": 100,
    "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+ {
+   "friendlyName": "United Earth Ambition",
+   "dataName": "Project_MassCP",
+   "techCategory": "SocialScience",
+   "AI_techRole": "EarthPolitics",
+   "AI_criticalTech": true,
+   "AI_projectRole": "ControlPointCap",
+   "researchCost": 300000,
+   "prereqs": [
+      "MassCP"
+   ],
+   "effects": [
+      "Effect_ControlPointMaintenanceBonus5000"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": true,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 8,
    "maxUnlockChance": 100,
    "resourcesGranted": []
 },

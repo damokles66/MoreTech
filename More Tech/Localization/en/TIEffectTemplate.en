@@ -2,3 +2,5 @@ TIEffectTemplate.displayName.Effect_SubstractAlienHate5=Reduce alien hate by 5
 TIEffectTemplate.description.Effect_SubstractAlienHate5=-Reduce alien hate by 5
 
 TIEffectTemplate.description.Effect_LifeExtension20=-Our councilors will on average live 20 years longer
+
+TIEffectTemplate.description.Effect_ControlPointMaintenanceBonus5000=-Increases our control point management capacity by {19} 

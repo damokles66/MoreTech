@@ -19,5 +19,17 @@
    "contexts": [
       "HumanLifespan"
    ]
-}
+},
+ {
+   "dataName": "Effect_ControlPointMaintenanceBonus5000",
+   "operation": "Additive",
+   "value": -5000,
+   "effectTarget": "SourceFaction",
+   "effectDuration": "permanent",
+   "stackable": true,
+   "duration_months": -1,
+   "contexts": [
+      "ControlPointMaintenance"
+   ]
+},
 ]
