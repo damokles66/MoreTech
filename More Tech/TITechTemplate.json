@@ -168,7 +168,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": false,
    "endGameTech": false,
-   "researchCost": 20000,
+   "researchCost": 7500,
    "prereqs": [
       "IndustrializationofSpace",
 	  "SuperAlloys",
@@ -183,7 +183,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": false,
    "endGameTech": false,
-   "researchCost": 20000,
+   "researchCost": 50000,
    "prereqs": [
       "Accelerando",
 	  "Mining2",
@@ -200,7 +200,7 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": false,
    "endGameTech": false,
-   "researchCost": 400000,
+   "researchCost": 150000,
    "prereqs": [
       "SpaceMiningAdvanced",
 	  "Mining3"
@@ -213,9 +213,8 @@
    "AI_techRole": "SpaceDevelopment",
    "AI_criticalTech": false,
    "endGameTech": false,
-   "researchCost": 400000,
+   "researchCost": 250000,
    "prereqs": [
-      "SpaceMiningAdvanced2",
 	  "Mining4",
 	  "ExoticAlloys"
 	  
