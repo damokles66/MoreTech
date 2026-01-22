@@ -1235,7 +1235,7 @@
    "stationModelResource": "habmodules/station_T3_ResearchUniversity_Module",
    "stationDestructionResource": "habmodules/stationdestruction_T3_generic",
    "alertWorthy": false,
-   "alienModule": false,
+   "alienModule": true,
    "objectiveModule": false
 },
  {
@@ -1291,7 +1291,7 @@
    "stationModelResource": "habmodules/station_T3_ResearchUniversity_Module",
    "stationDestructionResource": "habmodules/stationdestruction_T3_generic",
    "alertWorthy": false,
-   "alienModule": false,
+   "alienModule": true,
    "objectiveModule": false
 },
  {

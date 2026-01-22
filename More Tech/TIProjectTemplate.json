@@ -663,6 +663,9 @@
    "prereqs": [
       "XYZ"
    ],
+   "factionPrereq": [
+      "AlienCouncil"
+   ],
    "oneTimeGlobally": false,
    "repeatable": false,
    "factionAvailableChance": 100,
@@ -680,6 +683,9 @@
    "researchCost": 20000,
    "prereqs": [
       "XYZ"
+   ],
+   "factionPrereq": [
+      "AlienCouncil"
    ],
    "oneTimeGlobally": false,
    "repeatable": false,
