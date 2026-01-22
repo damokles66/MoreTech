@@ -1196,7 +1196,7 @@
    "noBuild": false,
    "destroyed": false,
    "tier": 3,
-   "requiredProjectName": "Project_AlienAdvancedMasterProject",
+   "requiredProjectName": "Project_Irradiator",
    "crew": 500,
    "power": -3000,
    "reserved": 0,
@@ -1235,7 +1235,7 @@
    "stationModelResource": "habmodules/station_T3_ResearchUniversity_Module",
    "stationDestructionResource": "habmodules/stationdestruction_T3_generic",
    "alertWorthy": false,
-   "alienModule": true,
+   "alienModule": false,
    "objectiveModule": false
 },
  {
@@ -1251,7 +1251,7 @@
    "noBuild": false,
    "destroyed": false,
    "tier": 3,
-   "requiredProjectName": "Project_AlienAdvancedMasterProject",
+   "requiredProjectName": "Project_Noblelizer",
    "crew": 500,
    "power": -3000,
    "reserved": 0,
@@ -1291,7 +1291,7 @@
    "stationModelResource": "habmodules/station_T3_ResearchUniversity_Module",
    "stationDestructionResource": "habmodules/stationdestruction_T3_generic",
    "alertWorthy": false,
-   "alienModule": true,
+   "alienModule": false,
    "objectiveModule": false
 },
  {

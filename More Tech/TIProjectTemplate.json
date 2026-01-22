@@ -661,10 +661,8 @@
    "AI_projectRole": "SpaceResources",
    "researchCost": 20000,
    "prereqs": [
-      "Project_AlienAdvancedMasterProject"
-   ],
-   "factionPrereq": [
-      "AlienCouncil"
+      "SpaceMiningAdvanced",
+	  "ExoticMatterProduction"
    ],
    "oneTimeGlobally": false,
    "repeatable": false,
@@ -682,10 +680,7 @@
    "AI_projectRole": "SpaceResources",
    "researchCost": 20000,
    "prereqs": [
-      "Project_AlienAdvancedMasterProject"
-   ],
-   "factionPrereq": [
-      "AlienCouncil"
+      "SpaceMiningAdvanced"
    ],
    "oneTimeGlobally": false,
    "repeatable": false,
