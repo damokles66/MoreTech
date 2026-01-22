@@ -42,7 +42,7 @@ TIHabModuleTemplate.description.Noblelizer=Using some antimatter and exotics, tu
 TIHabModuleTemplate.displayName.AdministrationController=Administration Controller
 TIHabModuleTemplate.description.AdministrationController=A large management center for a hab.
 
-TIHabModuleTemplate.displayName.AdministrationCenter=Administration Center.
+TIHabModuleTemplate.displayName.AdministrationCenter=Administration Center
 TIHabModuleTemplate.description.AdministrationCenter=A larger management center for a hab.
 
 TIHabModuleTemplate.displayName.WaterMine2=Basic Deepwater Well

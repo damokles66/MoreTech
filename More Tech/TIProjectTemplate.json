@@ -661,7 +661,7 @@
    "AI_projectRole": "SpaceResources",
    "researchCost": 20000,
    "prereqs": [
-      "XYZ"
+      "Project_AlienAdvancedMasterProject"
    ],
    "factionPrereq": [
       "AlienCouncil"
@@ -682,7 +682,7 @@
    "AI_projectRole": "SpaceResources",
    "researchCost": 20000,
    "prereqs": [
-      "XYZ"
+      "Project_AlienAdvancedMasterProject"
    ],
    "factionPrereq": [
       "AlienCouncil"
