@@ -184,7 +184,7 @@
    "reserved": 0,
    "baseMass_tons": 960,
    "buildTime_Days": 180,
-   "incomeMoney_month": 2000,
+   "incomeMoney_month": 900,
    "incomeInfluence_month": 0,
    "incomeOps_month": 0,
    "incomeResearch_month": 0,
@@ -264,7 +264,7 @@
    "incomeNobles_month": 0,
    "incomeFissiles_month": 0,
    "incomeAntimatter_month": 0,
-   "incomeExotics_month": 0.4,
+   "incomeExotics_month": 1.0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
    "miningModifier": 0,
@@ -335,7 +335,7 @@
       "metals": 40,
       "nobleMetals": 40,
       "fissiles": 10,
-	  "exotics": 0.02
+	  "exotics": 0.1
    },
    "weightedBuildMaterials": {
       "water": 0.05,
@@ -393,7 +393,7 @@
       "metals": 60,
       "nobleMetals": 60,
       "fissiles": 30,
-	  "exotics": 0.1
+	  "exotics": 0.2
    },
    "weightedBuildMaterials": {
       "water": 0.05,
