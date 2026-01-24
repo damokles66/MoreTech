@@ -1,26 +1,56 @@
 ManifestFileVersion: 0
-CRC: 2631302830
+CRC: 3550905282
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: fee536d1f87f7e8be899d6690313f013
+    Hash: f5a3a1881012276da0ea36aa1a2dcd2e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+    Hash: 9ecc2e8d717629781f019ff30323ba53
 HashAppended: 0
 ClassTypes:
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 49
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
+- Assets/AssetBundles/Texture2D/T5Noble.png
+- Assets/AssetBundles/Texture2D/T2Iron.png
+- Assets/AssetBundles/Texture2D/T2Volatiles.png
 - Assets/AssetBundles/Texture2D/base_T5_AdministrationCenter.png
+- Assets/AssetBundles/Sprite/T2Noble.png
+- Assets/AssetBundles/AssetBundles.manifest
+- Assets/AssetBundles/Sprite/T5Iron.png
+- Assets/AssetBundles/Sprite/T2Water.png
 - Assets/AssetBundles/Texture2D/station_T3_ExoticsFuser.png
+- Assets/AssetBundles/Sprite/T5Volatiles.png
 - Assets/AssetBundles/Texture2D/station_T3_Synthesiser.png
+- Assets/AssetBundles/Texture2D/T5Water.png
+- Assets/AssetBundles/newhabmodules.manifest
 - Assets/AssetBundles/Sprite/base_T4_AdministrationController.png
+- Assets/AssetBundles/Texture2D/T2Metal.png
+- Assets/AssetBundles/Texture2D/T5Metal.png
+- Assets/AssetBundles/Texture2D/T5Iron.png
+- Assets/AssetBundles/Texture2D/T5Fissiles.png
+- Assets/AssetBundles/Sprite/T2Fissiles.png
+- Assets/AssetBundles/Sprite/T5Metal.png
+- Assets/AssetBundles/Sprite/T5Noble.png
 - Assets/AssetBundles/Sprite/station_T3_Synthesiser.png
+- Assets/AssetBundles/Texture2D/T5Volatiles.png
+- Assets/AssetBundles/Sprite/T2Metal.png
+- Assets/AssetBundles/Sprite/T2Iron.png
 - Assets/AssetBundles/Texture2D/base_T4_AdministrationController.png
+- Assets/AssetBundles/Texture2D/T2Noble.png
+- Assets/AssetBundles/Texture2D/T2Fissiles.png
+- Assets/AssetBundles/Sprite/T5Water.png
+- Assets/AssetBundles/Texture2D/T2Water.png
+- Assets/AssetBundles/Sprite/T5Fissiles.png
 - Assets/AssetBundles/Sprite/base_T5_AdministrationCenter.png
+- Assets/AssetBundles/Sprite/T2Volatiles.png
 - Assets/AssetBundles/Sprite/station_T3_ExoticsFuser.png
+- Assets/AssetBundles/Texture2D/T5Noble (2).png
+- Assets/AssetBundles/Sprite/base_T2_Iron.png
 Dependencies: []
