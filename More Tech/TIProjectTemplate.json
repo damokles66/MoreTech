@@ -79,6 +79,102 @@
    "maxUnlockChance": 100,
    "resourcesGranted": [],
 },
+{
+	"friendlyName": "E-AM Reactor",
+	"dataName": "Project_EAMShipReactorI",
+	"techCategory": "Energy",
+	"AI_techRole": "SpaceDevelopment",
+	"AI_projectRole": "PowerPlant",
+	"researchCost": 700000,
+	"prereqs":
+	[
+		"Project_EAMFusionReactorFarm",
+		"ExoticAntimatterPropulsion"
+	],
+	"oneTimeGlobally": false,
+	"repeatable": false,
+	"factionAvailableChance": 100,
+	"initialUnlockChance": 0,
+	"deltaUnlockChance": 5,
+	"maxUnlockChance": 50,
+	"resourcesGranted": []
+},
+{
+	"friendlyName": "Exotic Candle",
+	"dataName": "Project_ExoticCandle",
+	"techCategory": "Energy",
+	"AI_techRole": "SpaceDevelopment",
+	"AI_projectRole": "PowerPlant",
+	"researchCost": 700000,
+	"prereqs":
+	[
+		"Project_EAMShipReactorI",
+	],
+	"oneTimeGlobally": false,
+	"repeatable": false,
+	"factionAvailableChance": 100,
+	"initialUnlockChance": 0,
+	"deltaUnlockChance": 5,
+	"maxUnlockChance": 50,
+	"resourcesGranted": []
+},
+{
+	"friendlyName": "Exotic Torch",
+	"dataName": "Project_ExoticTorch",
+	"techCategory": "Energy",
+	"AI_techRole": "SpaceDevelopment",
+	"AI_projectRole": "PowerPlant",
+	"researchCost": 1000000,
+	"prereqs":
+	[
+		"Project_ExoticCandle"
+	],
+	"oneTimeGlobally": false,
+	"repeatable": false,
+	"factionAvailableChance": 100,
+	"initialUnlockChance": 0,
+	"deltaUnlockChance": 5,
+	"maxUnlockChance": 50,
+	"resourcesGranted": []
+},
+{
+	"friendlyName": "E-AM ReactorI",
+	"dataName": "Project_EAMShipReactorI",
+	"techCategory": "Energy",
+	"AI_techRole": "SpaceDevelopment",
+	"AI_projectRole": "PowerPlant",
+	"researchCost": 50000,
+	"prereqs":
+	[
+		"Project_EAMFusionReactorFarm",
+	],
+	"oneTimeGlobally": false,
+	"repeatable": false,
+	"factionAvailableChance": 100,
+	"initialUnlockChance": 0,
+	"deltaUnlockChance": 5,
+	"maxUnlockChance": 50,
+	"resourcesGranted": []
+},
+{
+	"friendlyName": "E-AM ReactorIII",
+	"dataName": "Project_EAMShipReactorIII",
+	"techCategory": "Energy",
+	"AI_techRole": "SpaceDevelopment",
+	"AI_projectRole": "PowerPlant",
+	"researchCost": 50000,
+	"prereqs":
+	[
+		"Project_EAMFusionReactorFarm",
+	],
+	"oneTimeGlobally": false,
+	"repeatable": false,
+	"factionAvailableChance": 100,
+	"initialUnlockChance": 0,
+	"deltaUnlockChance": 5,
+	"maxUnlockChance": 50,
+	"resourcesGranted": []
+},
  {
    "friendlyName": "Stealthy Signatures",
    "dataName": "Project_MCU1",

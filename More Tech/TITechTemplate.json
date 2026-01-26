@@ -25,7 +25,7 @@
    ]
 },
  {
-   "friendlyName": "Exotic-Antimatter Spiked Fusion",
+   "friendlyName": "Exotic/Antimatter Reactions",
    "dataName": "ExoticAntimatterSpikedFusion",
    "techCategory": "Energy",
    "AI_techRole": "SpaceDevelopment",
@@ -35,6 +35,19 @@
    "prereqs": [
       "AntimatterMassProduction",
 	  "ExoticMatterProduction"
+   ]
+},
+ {
+   "friendlyName": "Exotic/Antimatter Propulsion",
+   "dataName": "ExoticAntimatterPropulsion",
+   "techCategory": "Energy",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_criticalTech": false,
+   "endGameTech": false,
+   "researchCost": 400000,
+   "prereqs": [
+      "ExoticAntimatterSpikedFusion",
+	  "AntimatterPropulsion"
    ]
 },
  {
