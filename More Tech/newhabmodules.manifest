@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3550905282
+CRC: 2804017027
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f5a3a1881012276da0ea36aa1a2dcd2e
+    Hash: 9bfbc18a44ce9bf4056fc1e877fb5920
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9ecc2e8d717629781f019ff30323ba53
@@ -18,39 +18,48 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/AssetBundles/Texture2D/T5Noble.png
-- Assets/AssetBundles/Texture2D/T2Iron.png
 - Assets/AssetBundles/Texture2D/T2Volatiles.png
-- Assets/AssetBundles/Texture2D/base_T5_AdministrationCenter.png
-- Assets/AssetBundles/Sprite/T2Noble.png
-- Assets/AssetBundles/AssetBundles.manifest
-- Assets/AssetBundles/Sprite/T5Iron.png
-- Assets/AssetBundles/Sprite/T2Water.png
+- Assets/AssetBundles/Sprite/Noblelizer.png
 - Assets/AssetBundles/Texture2D/station_T3_ExoticsFuser.png
+- Assets/AssetBundles/Texture2D/EAMReactor.png
+- Assets/AssetBundles/Sprite/ImprovedSupercollider.png
 - Assets/AssetBundles/Sprite/T5Volatiles.png
-- Assets/AssetBundles/Texture2D/station_T3_Synthesiser.png
-- Assets/AssetBundles/Texture2D/T5Water.png
+- Assets/AssetBundles/Texture2D/AdvancedSupercollider.png
 - Assets/AssetBundles/newhabmodules.manifest
-- Assets/AssetBundles/Sprite/base_T4_AdministrationController.png
 - Assets/AssetBundles/Texture2D/T2Metal.png
-- Assets/AssetBundles/Texture2D/T5Metal.png
-- Assets/AssetBundles/Texture2D/T5Iron.png
-- Assets/AssetBundles/Texture2D/T5Fissiles.png
 - Assets/AssetBundles/Sprite/T2Fissiles.png
-- Assets/AssetBundles/Sprite/T5Metal.png
 - Assets/AssetBundles/Sprite/T5Noble.png
 - Assets/AssetBundles/Sprite/station_T3_Synthesiser.png
 - Assets/AssetBundles/Texture2D/T5Volatiles.png
-- Assets/AssetBundles/Sprite/T2Metal.png
-- Assets/AssetBundles/Sprite/T2Iron.png
-- Assets/AssetBundles/Texture2D/base_T4_AdministrationController.png
 - Assets/AssetBundles/Texture2D/T2Noble.png
-- Assets/AssetBundles/Texture2D/T2Fissiles.png
+- Assets/AssetBundles/Texture2D/Noblelizer.png
 - Assets/AssetBundles/Sprite/T5Water.png
 - Assets/AssetBundles/Texture2D/T2Water.png
-- Assets/AssetBundles/Sprite/T5Fissiles.png
 - Assets/AssetBundles/Sprite/base_T5_AdministrationCenter.png
 - Assets/AssetBundles/Sprite/T2Volatiles.png
-- Assets/AssetBundles/Sprite/station_T3_ExoticsFuser.png
+- Assets/AssetBundles/Sprite/T5ColonyMine.png
 - Assets/AssetBundles/Texture2D/T5Noble (2).png
-- Assets/AssetBundles/Sprite/base_T2_Iron.png
+- Assets/AssetBundles/Sprite/Irradiator.png
+- Assets/AssetBundles/Texture2D/ImprovedSupercollider.png
+- Assets/AssetBundles/Texture2D/base_T5_AdministrationCenter.png
+- Assets/AssetBundles/Sprite/T2Noble.png
+- Assets/AssetBundles/AssetBundles.manifest
+- Assets/AssetBundles/Sprite/T2Water.png
+- Assets/AssetBundles/Texture2D/station_T3_Synthesiser.png
+- Assets/AssetBundles/Texture2D/T5Water.png
+- Assets/AssetBundles/Texture2D/T5Metal.png
+- Assets/AssetBundles/Sprite/base_T4_AdministrationController.png
+- Assets/AssetBundles/Texture2D/T5Fissiles.png
+- Assets/AssetBundles/Texture2D/T5ColonyMine.png
+- Assets/AssetBundles/Texture2D/Irradiator.png
+- Assets/AssetBundles/Sprite/T5Metal.png
+- Assets/AssetBundles/Sprite/EAMReactor.png
+- Assets/AssetBundles/Sprite/T2Metal.png
+- Assets/AssetBundles/Texture2D/base_T4_AdministrationController.png
+- Assets/AssetBundles/Texture2D/T2Fissiles.png
+- Assets/AssetBundles/Sprite/T4ColonyMine.png
+- Assets/AssetBundles/Texture2D/T4ColonyMine.png
+- Assets/AssetBundles/Sprite/AdvancedSupercollider.png
+- Assets/AssetBundles/Sprite/T5Fissiles.png
+- Assets/AssetBundles/Sprite/station_T3_ExoticsFuser.png
 Dependencies: []
