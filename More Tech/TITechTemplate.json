@@ -38,19 +38,6 @@
    ]
 },
  {
-   "friendlyName": "Exotic/Antimatter Propulsion",
-   "dataName": "ExoticAntimatterPropulsion",
-   "techCategory": "Energy",
-   "AI_techRole": "SpaceDevelopment",
-   "AI_criticalTech": false,
-   "endGameTech": false,
-   "researchCost": 400000,
-   "prereqs": [
-      "ExoticAntimatterSpikedFusion",
-	  "AntimatterPropulsion"
-   ]
-},
- {
    "friendlyName": "Energy Matter Conversion",
    "dataName": "EnergyMatterConversion",
    "techCategory": "Energy",
