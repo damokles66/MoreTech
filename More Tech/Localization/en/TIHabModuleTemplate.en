@@ -39,10 +39,10 @@ TIHabModuleTemplate.description.EAMSolarFarm=An advanced Solar Power Farm using 
 TIHabModuleTemplate.displayName.Noblelizer=Noblelizer
 TIHabModuleTemplate.description.Noblelizer=Using some antimatter and exotics, turns metals and fizziles into noble metal
 
-TIHabModuleTemplate.displayName.AdministrationController=Improved AdministrationComplex
+TIHabModuleTemplate.displayName.AdministrationController=Improved Administration Complex
 TIHabModuleTemplate.description.AdministrationController=A large management center for a hab.
 
-TIHabModuleTemplate.displayName.AdministrationCenter=Advanced AdministrationComplex
+TIHabModuleTemplate.displayName.AdministrationCenter=Advanced Administration Complex
 TIHabModuleTemplate.description.AdministrationCenter=A larger management center for a hab.
 
 TIHabModuleTemplate.displayName.WaterMine2=Basic Deepwater Well
