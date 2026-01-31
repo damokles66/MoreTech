@@ -15,17 +15,17 @@ TIProjectTemplate.displayName.Project_Synthesiser=Synthesiser
 TIProjectTemplate.summary.Project_Synthesiser=Produces basic resources
 TIProjectTemplate.description.Project_Synthesiser=An energy matter converter providing basis resources
 
-TIProjectTemplate.displayName.Project_BSuperCollider=Advanced Supercollider
-TIProjectTemplate.summary.Project_BSuperCollider=An advanced Supercollider
-TIProjectTemplate.description.Project_BSuperCollider=An advanced Supercollider producing a larger amount of antimatter at the cost of some exotic matter.
+TIProjectTemplate.displayName.Project_BSuperCollider=Improved Supercollider
+TIProjectTemplate.summary.Project_BSuperCollider=An improved Supercollider
+TIProjectTemplate.description.Project_BSuperCollider=An improved Supercollider producing a larger amount of antimatter at the cost of some exotic matter.
 
 TIProjectTemplate.displayName.Project_Sniffing=Pherocyte Analysis
 TIProjectTemplate.summary.Project_Sniffing=Allows us to retrieve information about the alien stance from their Pherocyte emissions.
 TIProjectTemplate.description.Project_Sniffing=Updates the alian threat evaluation by analysing the Pherocyte found by us.
 
-TIProjectTemplate.displayName.Project_OSSuperCollider=Oversized Supercollider
-TIProjectTemplate.summary.Project_OSSuperCollider=An oversized Supercollider
-TIProjectTemplate.description.Project_OSSuperCollider=An oversized Supercollider producing a larger amount of antimatter at the cost of some exotic matter.
+TIProjectTemplate.displayName.Project_OSSuperCollider=Advanced Supercollider
+TIProjectTemplate.summary.Project_OSSuperCollider=An advanced Supercollider
+TIProjectTemplate.description.Project_OSSuperCollider=An advanced Supercollider producing a larger amount of antimatter at the cost of some exotic matter.
 
 TIProjectTemplate.displayName.Project_EMMassFuser=Advanced Exotic Matter Fuser
 TIProjectTemplate.summary.Project_EMMassFuser=Module that produces exotic matter
@@ -91,20 +91,20 @@ TIProjectTemplate.displayName.Project_AdvancedColonyMiningComplex=Improved Colon
 TIProjectTemplate.summary.Project_AdvancedColonyMiningComplex=Improved Colony Mining Complex
 TIProjectTemplate.description.Project_AdvancedColonyMiningComplex=An improved colony mining complex using antimatter to power more efficient drilling equipment.
 
-TIProjectTemplate.displayName.Project_AdvancedAutomatedMiningComplexII=Advanced Exotics-based Automated Mining Complex
-TIProjectTemplate.summary.Project_AdvancedAutomatedMiningComplexII=Advanced Exotics-based Automated Mining Complex
+TIProjectTemplate.displayName.Project_AdvancedAutomatedMiningComplexII=Advanced Automated Mining Complex
+TIProjectTemplate.summary.Project_AdvancedAutomatedMiningComplexII=Advanced Automated Mining Complex
 TIProjectTemplate.description.Project_AdvancedAutomatedMiningComplexII=An advanced automated mining complex using antimatter and exotics to power even more efficient drilling equipment.
 
-TIProjectTemplate.displayName.Project_AdvancedOutpostMiningComplexII=Advanced Exotics-based Mining Complex
-TIProjectTemplate.summary.Project_AdvancedOutpostMiningComplexII=Advanced Exotics-based Mining Complex
+TIProjectTemplate.displayName.Project_AdvancedOutpostMiningComplexII=Advanced Mining Complex
+TIProjectTemplate.summary.Project_AdvancedOutpostMiningComplexII=Advanced Mining Complex
 TIProjectTemplate.description.Project_AdvancedOutpostMiningComplexII=An advanced mining complex using antimatter and exotics to power even more efficient drilling equipment.
 
-TIProjectTemplate.displayName.Project_AdvancedSettlementMiningComplexII=Advanced Exotics-based Settlement Mining Complex
-TIProjectTemplate.summary.Project_AdvancedSettlementMiningComplexII=Advanced Exotics-based Settlement Mining Complex
+TIProjectTemplate.displayName.Project_AdvancedSettlementMiningComplexII=Advanced Settlement Mining Complex
+TIProjectTemplate.summary.Project_AdvancedSettlementMiningComplexII=Advanced Settlement Mining Complex
 TIProjectTemplate.description.Project_AdvancedSettlementMiningComplexII=An advanced settlement mining complex using antimatter and exotics to power even more efficient drilling equipment.
 
-TIProjectTemplate.displayName.Project_AdvancedColonyMiningComplexII=Advanced Exotics-based Colony Mining Complex
-TIProjectTemplate.summary.Project_AdvancedColonyMiningComplexII=Advanced Exotics-based Colony Mining Complex
+TIProjectTemplate.displayName.Project_AdvancedColonyMiningComplexII=Advanced Colony Mining Complex
+TIProjectTemplate.summary.Project_AdvancedColonyMiningComplexII=Advanced Colony Mining Complex
 TIProjectTemplate.description.Project_AdvancedColonyMiningComplexII=An advanced Colony mining complex using antimatter and exotics to power even more efficient drilling equipment.
 
 TIProjectTemplate.displayName.Project_ExoticHardening=Exotic-Armor hardened Habitats
