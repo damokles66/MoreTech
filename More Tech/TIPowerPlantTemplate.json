@@ -1,0 +1,56 @@
+[
+ {
+   "dataName": "ExoticAntimatterBeamCoreReactorI",
+   "friendlyName": "Antimatter Beam Core Reactor I",
+   "maxOutput_GW": 3000000,
+   "specificPower_tGW": 0.00002,
+   "powerPlantClass": "ExoticAntimatter_Beam_Core",
+   "requiredProjectName": "Project_EAMShipReactorI",
+   "efficiency": 0.999,
+   "crew": 12,
+   "weightedBuildMaterials": {
+      "volatiles": 0.1,
+      "metals": 0.1,
+      "nobleMetals": 0.1,
+      "antimatter": 0.35,
+      "exotics": 0.35
+   },
+   "iconResource": "shipbuildericons/ICO_AntimatterBeamCoreReactor"
+},
+ {
+   "dataName": "ExoticAntimatterBeamCoreReactorII",
+   "friendlyName": "Antimatter Beam Core Reactor II",
+   "maxOutput_GW": 400000,
+   "specificPower_tGW": 0.000006,
+   "powerPlantClass": "ExoticAntimatter_Beam_Core",
+   "requiredProjectName": "Project_EAMShipReactorII",
+   "efficiency": 0.999,
+   "crew": 12,
+   "weightedBuildMaterials": {
+       "volatiles": 0.1,
+      "metals": 0.1,
+      "nobleMetals": 0.1,
+      "antimatter": 0.35,
+      "exotics": 0.35
+   },
+   "iconResource": "shipbuildericons/ICO_AntimatterBeamCoreReactor"
+},
+ {
+   "dataName": "ExoticAntimatterBeamCoreReactorIII",
+   "friendlyName": "Antimatter Beam Core Reactor III",
+   "maxOutput_GW": 5000000,
+   "specificPower_tGW": 0.000003,
+   "powerPlantClass": "ExoticAntimatter_Beam_Core",
+   "requiredProjectName": "Project_EAMShipReactorIII",
+   "efficiency": 0.999,
+   "crew": 12,
+   "weightedBuildMaterials": {
+       "volatiles": 0.1,
+      "metals": 0.1,
+      "nobleMetals": 0.1,
+      "antimatter": 0.35,
+      "exotics": 0.35
+   },
+   "iconResource": "shipbuildericons/ICO_AntimatterBeamCoreReactor"
+}
+]

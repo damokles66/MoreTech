@@ -197,3 +197,15 @@ TIProjectTemplate.summary.Project_MiningWater4=<habmodule>
 TIProjectTemplate.displayName.Project_MiningWater5=Advanced Deep Water Well
 TIProjectTemplate.summary.Project_MiningWater5=<habmodule>
 
+TIProjectTemplate.displayName.Project_ExoticTorch=Exotic/Antimatter Torch
+TIProjectTemplate.summary.Project_MiningWater5=<shipmodule>
+
+TIProjectTemplate.displayName.Project_ExoticCandle=Exotic/Antimatter Candle
+TIProjectTemplate.summary.Project_MiningWater5=<shipmodule>
+
+TIProjectTemplate.displayName.Project_EAMShipReactorI=EAM-Ship Reactor
+TIProjectTemplate.summary.Project_EAMShipReactorI=<shipmodule>
+TIProjectTemplate.displayName.Project_EAMShipReactorII=EAM-Reactor II
+TIProjectTemplate.summary.Project_EAMShipReactorII=<shipmodule>
+TIProjectTemplate.displayName.Project_EAMShipReactorIII=EAM-Reactor III
+TIProjectTemplate.summary.Project_EAMShipReactorIII=<shipmodule>

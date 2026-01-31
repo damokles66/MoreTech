@@ -1,0 +1,326 @@
+[
+ {
+   "dataName": "ExoticTorchx1",
+   "friendlyName": "Pion Torch x1",
+   "thrusters": 1,
+   "driveClassification": "Antimatter",
+   "requiredProjectName": "Project_AntimatterBeamCoreTorch",
+   "thrust_N": 100000000,
+   "EV_kps": 18720,
+   "specificPower_kgMW": 0,
+   "efficiency": 0.999,
+   "thrustRating_GW": "73,600.000",
+   "req power": "730,000.000",
+   "flatMass_tons": 0,
+   "requiredPowerPlant": "ExoticAntimatter_Beam_Core",
+   "thrustCap": 60,
+   "cooling": "Open",
+   "powerGen": "DriveActive",
+   "weightedBuildMaterials": {
+      "metals": 1
+   },
+   "propellant": "ReactionProducts",
+   "perTankPropellantMaterials": {
+      "exotics": 0.25,
+      "antimatter": 0.25
+   },
+   "iconResource": "shipbuildericons/ICO_PionTorch"
+},
+ {
+   "dataName": "ExoticTorchx2",
+   "friendlyName": "Pion Torch x2",
+   "thrusters": 2,
+   "driveClassification": "Antimatter",
+   "requiredProjectName": "Project_AntimatterBeamCoreTorch",
+   "thrust_N": 200000000,
+   "EV_kps": 18720,
+   "specificPower_kgMW": 0,
+   "efficiency": 0.999,
+   "thrustRating_GW": "147,200.000",
+   "req power": "1,460,000.0",
+   "flatMass_tons": 0,
+   "requiredPowerPlant": "ExoticAntimatter_Beam_Core",
+   "thrustCap": 60,
+   "cooling": "Open",
+   "powerGen": "DriveActive",
+   "weightedBuildMaterials": {
+      "metals": 1
+   },
+   "propellant": "ReactionProducts",
+   "perTankPropellantMaterials": {
+      "exotics": 0.25,
+      "antimatter": 0.25
+   },
+   "iconResource": "shipbuildericons/ICO_PionTorch"
+},
+ {
+   "dataName": "ExoticTorchx3",
+   "friendlyName": "Pion Torch x3",
+   "thrusters": 3,
+   "driveClassification": "Antimatter",
+   "requiredProjectName": "Project_AntimatterBeamCoreTorch",
+   "thrust_N": 300000000,
+   "EV_kps": 18720,
+   "specificPower_kgMW": 0,
+   "efficiency": 0.999,
+   "thrustRating_GW": "220,800.000",
+   "req power": "2,190,000.000",
+   "flatMass_tons": 0,
+   "requiredPowerPlant": "ExoticAntimatter_Beam_Core",
+   "thrustCap": 60,
+   "cooling": "Open",
+   "powerGen": "DriveActive",
+   "weightedBuildMaterials": {
+      "metals": 1
+   },
+   "propellant": "ReactionProducts",
+   "perTankPropellantMaterials": {
+      "exotics": 0.25,
+      "antimatter": 0.25
+   },
+   "iconResource": "shipbuildericons/ICO_PionTorch"
+},
+ {
+   "dataName": "ExoticTorchx4",
+   "friendlyName": "Pion Torch x4",
+   "thrusters": 4,
+   "driveClassification": "Antimatter",
+   "requiredProjectName": "Project_AntimatterBeamCoreTorch",
+   "thrust_N": 400000000,
+   "EV_kps": 18720,
+   "specificPower_kgMW": 0,
+   "efficiency": 0.999,
+   "thrustRating_GW": "294,400.000",
+   "req power": "2,920,000.000",
+   "flatMass_tons": 0,
+   "requiredPowerPlant": "ExoticAntimatter_Beam_Core",
+   "thrustCap": 60,
+   "cooling": "Open",
+   "powerGen": "DriveActive",
+   "weightedBuildMaterials": {
+      "metals": 1
+   },
+   "propellant": "ReactionProducts",
+   "perTankPropellantMaterials": {
+      "exotics": 0.25,
+      "antimatter": 0.25
+   },
+   "iconResource": "shipbuildericons/ICO_PionTorch"
+},
+ {
+   "dataName": "ExoticTorchx5",
+   "friendlyName": "Pion Torch x5",
+   "thrusters": 5,
+   "driveClassification": "Antimatter",
+   "requiredProjectName": "Project_AntimatterBeamCoreTorch",
+   "thrust_N": 500000000,
+   "EV_kps": 18720,
+   "specificPower_kgMW": 0,
+   "efficiency": 0.999,
+   "thrustRating_GW": "368,000.000",
+   "req power": "3,650,000.000",
+   "flatMass_tons": 0,
+   "requiredPowerPlant": "ExoticAntimatter_Beam_Core",
+   "thrustCap": 60,
+   "cooling": "Open",
+   "powerGen": "DriveActive",
+   "weightedBuildMaterials": {
+      "metals": 1
+   },
+   "propellant": "ReactionProducts",
+   "perTankPropellantMaterials": {
+      "exotics": 0.25,
+      "antimatter": 0.25
+   },
+   "iconResource": "shipbuildericons/ICO_PionTorch"
+},
+ {
+   "dataName": "ExoticTorchx6",
+   "friendlyName": "Pion Torch x6",
+   "thrusters": 6,
+   "driveClassification": "Antimatter",
+   "requiredProjectName": "Project_AntimatterBeamCoreTorch",
+   "thrust_N": 600000000,
+   "EV_kps": 18720,
+   "specificPower_kgMW": 0,
+   "efficiency": 0.999,
+   "thrustRating_GW": "441,600.000",
+   "req power": "4,380,000.000",
+   "flatMass_tons": 0,
+   "requiredPowerPlant": "ExoticAntimatter_Beam_Core",
+   "thrustCap": 60,
+   "cooling": "Open",
+   "powerGen": "DriveActive",
+   "weightedBuildMaterials": {
+      "metals": 1
+   },
+   "propellant": "ReactionProducts",
+   "perTankPropellantMaterials": {
+      "exotics": 0.25,
+      "antimatter": 0.25
+   },
+   "iconResource": "shipbuildericons/ICO_PionTorch"
+},
+ {
+   "dataName": "ExoticCandlex1",
+   "friendlyName": "Pion Torch x1",
+   "thrusters": 1,
+   "driveClassification": "Antimatter",
+   "requiredProjectName": "Project_ExoticCandle",
+   "thrust_N": 20000000,
+   "EV_kps": 12720,
+   "specificPower_kgMW": 0,
+   "efficiency": 0.999,
+   "thrustRating_GW": "73,600.000",
+   "req power": "73,747.495",
+   "flatMass_tons": 0,
+   "requiredPowerPlant": "ExoticExoticAntimatter_Beam_Core",
+   "thrustCap": 60,
+   "cooling": "Open",
+   "powerGen": "DriveActive",
+   "weightedBuildMaterials": {
+      "metals": 1
+   },
+   "propellant": "ReactionProducts",
+   "perTankPropellantMaterials": {
+      "exotics": 0.05,
+      "antimatter": 0.05
+   },
+   "iconResource": "shipbuildericons/ICO_PionTorch"
+},
+ {
+   "dataName": "ExoticCandlex2",
+   "friendlyName": "Pion Torch x2",
+   "thrusters": 2,
+   "driveClassification": "Antimatter",
+   "requiredProjectName": "Project_ExoticCandle",
+   "thrust_N": 40000000,
+   "EV_kps": 12720,
+   "specificPower_kgMW": 0,
+   "efficiency": 0.999,
+   "thrustRating_GW": "147,200.000",
+   "req power": "147,494.990",
+   "flatMass_tons": 0,
+   "requiredPowerPlant": "ExoticAntimatter_Beam_Core",
+   "thrustCap": 60,
+   "cooling": "Open",
+   "powerGen": "DriveActive",
+   "weightedBuildMaterials": {
+      "metals": 1
+   },
+   "propellant": "ReactionProducts",
+   "perTankPropellantMaterials": {
+      "exotics": 0.05,
+      "antimatter": 0.05
+   },
+   "iconResource": "shipbuildericons/ICO_PionTorch"
+},
+ {
+   "dataName": "ExoticCandlex3",
+   "friendlyName": "Pion Torch x3",
+   "thrusters": 3,
+   "driveClassification": "Antimatter",
+   "requiredProjectName": "Project_ExoticCandle",
+   "thrust_N": 60000000,
+   "EV_kps": 12720,
+   "specificPower_kgMW": 0,
+   "efficiency": 0.999,
+   "thrustRating_GW": "220,800.000",
+   "req power": "221,242.485",
+   "flatMass_tons": 0,
+   "requiredPowerPlant": "ExoticAntimatter_Beam_Core",
+   "thrustCap": 60,
+   "cooling": "Open",
+   "powerGen": "DriveActive",
+   "weightedBuildMaterials": {
+      "metals": 1
+   },
+   "propellant": "ReactionProducts",
+   "perTankPropellantMaterials": {
+      "exotics": 0.05,
+      "antimatter": 0.05
+   },
+   "iconResource": "shipbuildericons/ICO_PionTorch"
+},
+ {
+   "dataName": "ExoticCandlex4",
+   "friendlyName": "Pion Torch x4",
+   "thrusters": 4,
+   "driveClassification": "Antimatter",
+   "requiredProjectName": "Project_ExoticCandle",
+   "thrust_N": 80000000,
+   "EV_kps": 12720,
+   "specificPower_kgMW": 0,
+   "efficiency": 0.999,
+   "thrustRating_GW": "294,400.000",
+   "req power": "294,989.980",
+   "flatMass_tons": 0,
+   "requiredPowerPlant": "ExoticAntimatter_Beam_Core",
+   "thrustCap": 60,
+   "cooling": "Open",
+   "powerGen": "DriveActive",
+   "weightedBuildMaterials": {
+      "metals": 1
+   },
+   "propellant": "ReactionProducts",
+   "perTankPropellantMaterials": {
+      "exotics": 0.05,
+      "antimatter": 0.05
+   },
+   "iconResource": "shipbuildericons/ICO_PionTorch"
+},
+ {
+   "dataName": "ExoticCandlex5",
+   "friendlyName": "Pion Torch x5",
+   "thrusters": 5,
+   "driveClassification": "Antimatter",
+   "requiredProjectName": "Project_ExoticCandle",
+   "thrust_N": 100000000,
+   "EV_kps": 12720,
+   "specificPower_kgMW": 0,
+   "efficiency": 0.999,
+   "thrustRating_GW": "368,000.000",
+   "req power": "368,737.475",
+   "flatMass_tons": 0,
+   "requiredPowerPlant": "ExoticAntimatter_Beam_Core",
+   "thrustCap": 60,
+   "cooling": "Open",
+   "powerGen": "DriveActive",
+   "weightedBuildMaterials": {
+      "metals": 1
+   },
+   "propellant": "ReactionProducts",
+   "perTankPropellantMaterials": {
+      "exotics": 0.05,
+      "antimatter": 0.05
+   },
+   "iconResource": "shipbuildericons/ICO_PionTorch"
+},
+ {
+   "dataName": "ExoticCandlex6",
+   "friendlyName": "Pion Torch x6",
+   "thrusters": 6,
+   "driveClassification": "Antimatter",
+   "requiredProjectName": "Project_ExoticCandle",
+   "thrust_N": 1200000000,
+   "EV_kps": 12720,
+   "specificPower_kgMW": 0,
+   "efficiency": 0.999,
+   "thrustRating_GW": "441,600.000",
+   "req power": "442,484.970",
+   "flatMass_tons": 0,
+   "requiredPowerPlant": "ExoticAntimatter_Beam_Core",
+   "thrustCap": 60,
+   "cooling": "Open",
+   "powerGen": "DriveActive",
+   "weightedBuildMaterials": {
+      "metals": 1
+   },
+   "propellant": "ReactionProducts",
+   "perTankPropellantMaterials": {
+      "exotics": 0.05,
+      "antimatter": 0.05
+   },
+   "iconResource": "shipbuildericons/ICO_PionTorch"
+},
+]

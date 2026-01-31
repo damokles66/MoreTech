@@ -219,5 +219,18 @@
 	  "ExoticAlloys"
 	  
    ]
+},
+ {
+   "friendlyName": "Exotic matter Propulsion",
+   "dataName": "ExoticAntimatterPropulsion",
+   "techCategory": "SpaceScience",
+   "AI_techRole": "SpaceWar",
+   "AI_criticalTech": false,
+   "endGameTech": false,
+   "researchCost": 600000,
+   "prereqs": [
+      "ExoticMatterMassProduction",
+      "AntimatterPropulsion"
+   ]
 }
 ]
