@@ -1,26 +1,48 @@
 ManifestFileVersion: 0
-CRC: 3395114968
+CRC: 527333289
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 1b9bc20e7d8e4b986f77df31ebb8f915
+    Hash: b2f6db99ed7dc1eb21b74c732a72b352
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+    Hash: 9ecc2e8d717629781f019ff30323ba53
 HashAppended: 0
 ClassTypes:
 - Class: 28
+  Script: {instanceID: 0}
+- Class: 49
   Script: {instanceID: 0}
 - Class: 213
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/shipbuildericons/ICO_PlasmaBatteryMk4.png
-- Assets/shipbuildericons/ICO_HeavyPlasmaBatteryMk4.png
-- Assets/shipbuildericons/ICO_PlasmaCannonMk4.png
-- Assets/shipbuildericons/ICO_HeavyPlasmaCannonMk5.png
-- Assets/shipbuildericons/ICO_PlasmaCannonMk5.png
-- Assets/shipbuildericons/ICO_HeavyPlasmaBatteryMk5.png
-- Assets/shipbuildericons/ICO_PlasmaBatteryMk5.png
-- Assets/shipbuildericons/ICO_HeavyPlasmaCannonMk4.png
+- Assets/AssetBundles/Sprite/ICO_HeavyPlasmaBatteryMk4.png
+- Assets/AssetBundles/Texture2D/ICO_ExoticTorch.png
+- Assets/AssetBundles/Sprite/ICO_HeavyPlasmaBatteryMk5.png
+- Assets/AssetBundles/Texture2D/ICO_ExoticCandle.png
+- Assets/AssetBundles/Sprite/ICO_ExoticTorch.png
+- Assets/AssetBundles/Texture2D/ICO_PlasmaBatteryMk4.png
+- Assets/AssetBundles/Texture2D/ICO_PlasmaBatteryMk5.png
+- Assets/AssetBundles/Texture2D/ICO_HeavyPlasmaCannonMk4.png
+- Assets/AssetBundles/Texture2D/ICO_PlasmaCannonMk4.png
+- Assets/AssetBundles/Sprite/ICO_HeavyPlasmaCannonMk5.png
+- Assets/AssetBundles/Sprite/ICO_PlasmaCannonMk4.png
+- Assets/AssetBundles/Texture2D/ICO_HeavyPlasmaBatteryMk4.png
+- Assets/AssetBundles/newhabmodules.manifest
+- Assets/AssetBundles/Sprite/ICO_HeavyPlasmaCannonMk4.png
+- Assets/AssetBundles/Texture2D/ExoticReactorII.png
+- Assets/AssetBundles/Sprite/ExoticReactorI.png
+- Assets/AssetBundles/Sprite/ICO_PlasmaBatteryMk4.png
+- Assets/AssetBundles/AssetBundles.manifest
+- Assets/AssetBundles/Sprite/ExoticReactorII.png
+- Assets/AssetBundles/Texture2D/ICO_HeavyPlasmaCannonMk5.png
+- Assets/AssetBundles/Texture2D/ExoticReactorI.png
+- Assets/AssetBundles/Texture2D/ICO_HeavyPlasmaBatteryMk5.png
+- Assets/AssetBundles/Sprite/ICO_ExoticCandle.png
+- Assets/AssetBundles/Texture2D/ExoticReactorIII.png
+- Assets/AssetBundles/Texture2D/ICO_PlasmaCannonMk5.png
+- Assets/AssetBundles/Sprite/ICO_PlasmaCannonMk5.png
+- Assets/AssetBundles/Sprite/ExoticReactorIII.png
+- Assets/AssetBundles/Sprite/ICO_PlasmaBatteryMk5.png
 Dependencies: []

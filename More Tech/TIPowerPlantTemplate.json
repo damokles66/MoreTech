@@ -15,7 +15,7 @@
       "antimatter": 0.35,
       "exotics": 0.35
    },
-   "iconResource": "shipbuildericons/ICO_AntimatterBeamCoreReactor"
+   "iconResource": "newshipbuildericons/ExoticReactorI"
 },
  {
    "dataName": "ExoticAntimatterBeamCoreReactorII",
@@ -33,7 +33,7 @@
       "antimatter": 0.35,
       "exotics": 0.35
    },
-   "iconResource": "shipbuildericons/ICO_AntimatterBeamCoreReactor"
+   "iconResource": "newshipbuildericons/ExoticReactorII"
 },
  {
    "dataName": "ExoticAntimatterBeamCoreReactorIII",
@@ -51,6 +51,6 @@
       "antimatter": 0.35,
       "exotics": 0.35
    },
-   "iconResource": "shipbuildericons/ICO_AntimatterBeamCoreReactor"
+   "iconResource": "newshipbuildericons/ExoticReactorIII"
 }
 ]

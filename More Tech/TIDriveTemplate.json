@@ -24,7 +24,7 @@
       "exotics": 0.25,
       "antimatter": 0.25
    },
-   "iconResource": "shipbuildericons/ICO_PionTorch"
+   "iconResource": "newshipbuildericons/ICO_ExoticTorch"
 },
  {
    "dataName": "ExoticTorchx2",
@@ -51,7 +51,7 @@
       "exotics": 0.25,
       "antimatter": 0.25
    },
-   "iconResource": "shipbuildericons/ICO_PionTorch"
+   "iconResource": "newshipbuildericons/ICO_ExoticTorch"
 },
  {
    "dataName": "ExoticTorchx3",
@@ -78,7 +78,7 @@
       "exotics": 0.25,
       "antimatter": 0.25
    },
-   "iconResource": "shipbuildericons/ICO_PionTorch"
+   "iconResource": "newshipbuildericons/ICO_ExoticTorch"
 },
  {
    "dataName": "ExoticTorchx4",
@@ -105,7 +105,7 @@
       "exotics": 0.25,
       "antimatter": 0.25
    },
-   "iconResource": "shipbuildericons/ICO_PionTorch"
+   "iconResource": "newshipbuildericons/ICO_ExoticTorch"
 },
  {
    "dataName": "ExoticTorchx5",
@@ -132,7 +132,7 @@
       "exotics": 0.25,
       "antimatter": 0.25
    },
-   "iconResource": "shipbuildericons/ICO_PionTorch"
+   "iconResource": "newshipbuildericons/ICO_ExoticTorch"
 },
  {
    "dataName": "ExoticTorchx6",
@@ -159,7 +159,7 @@
       "exotics": 0.25,
       "antimatter": 0.25
    },
-   "iconResource": "shipbuildericons/ICO_PionTorch"
+   "iconResource": "newshipbuildericons/ICO_ExoticTorch"
 },
  {
    "dataName": "ExoticCandlex1",
@@ -186,7 +186,7 @@
       "exotics": 0.05,
       "antimatter": 0.05
    },
-   "iconResource": "shipbuildericons/ICO_PionTorch"
+   "iconResource": "newshipbuildericons/ICO_ExoticCandle"
 },
  {
    "dataName": "ExoticCandlex2",
@@ -213,7 +213,7 @@
       "exotics": 0.05,
       "antimatter": 0.05
    },
-   "iconResource": "shipbuildericons/ICO_PionTorch"
+   "iconResource": "newshipbuildericons/ICO_ExoticCandle"
 },
  {
    "dataName": "ExoticCandlex3",
@@ -240,7 +240,7 @@
       "exotics": 0.05,
       "antimatter": 0.05
    },
-   "iconResource": "shipbuildericons/ICO_PionTorch"
+   "iconResource": "newshipbuildericons/ICO_ExoticCandle"
 },
  {
    "dataName": "ExoticCandlex4",
@@ -267,7 +267,7 @@
       "exotics": 0.05,
       "antimatter": 0.05
    },
-   "iconResource": "shipbuildericons/ICO_PionTorch"
+   "iconResource": "newshipbuildericons/ICO_ExoticCandle"
 },
  {
    "dataName": "ExoticCandlex5",
@@ -294,7 +294,7 @@
       "exotics": 0.05,
       "antimatter": 0.05
    },
-   "iconResource": "shipbuildericons/ICO_PionTorch"
+   "iconResource": "newshipbuildericons/ICO_ExoticCandle"
 },
  {
    "dataName": "ExoticCandlex6",
@@ -321,6 +321,6 @@
       "exotics": 0.05,
       "antimatter": 0.05
    },
-   "iconResource": "shipbuildericons/ICO_PionTorch"
+   "iconResource": "newshipbuildericons/ICO_ExoticCandle"
 },
 ]
