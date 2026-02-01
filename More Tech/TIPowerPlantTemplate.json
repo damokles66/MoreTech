@@ -20,7 +20,7 @@
  {
    "dataName": "ExoticAntimatterBeamCoreReactorII",
    "friendlyName": "Antimatter Beam Core Reactor II",
-   "maxOutput_GW": 400000,
+   "maxOutput_GW": 4500000,
    "specificPower_tGW": 0.000006,
    "powerPlantClass": "ExoticAntimatter_Beam_Core",
    "requiredProjectName": "Project_EAMShipReactorII",
@@ -38,7 +38,7 @@
  {
    "dataName": "ExoticAntimatterBeamCoreReactorIII",
    "friendlyName": "Antimatter Beam Core Reactor III",
-   "maxOutput_GW": 5000000,
+   "maxOutput_GW": 6000000,
    "specificPower_tGW": 0.000003,
    "powerPlantClass": "ExoticAntimatter_Beam_Core",
    "requiredProjectName": "Project_EAMShipReactorIII",
