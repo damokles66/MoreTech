@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 527333289
+CRC: 1192686113
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b2f6db99ed7dc1eb21b74c732a72b352
+    Hash: 8c946c3f63414af3381f318fcdfe377a
   TypeTreeHash:
     serializedVersion: 2
     Hash: 9ecc2e8d717629781f019ff30323ba53
@@ -17,32 +17,33 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AssetBundles/Sprite/ICO_HeavyPlasmaBatteryMk4.png
-- Assets/AssetBundles/Texture2D/ICO_ExoticTorch.png
-- Assets/AssetBundles/Sprite/ICO_HeavyPlasmaBatteryMk5.png
-- Assets/AssetBundles/Texture2D/ICO_ExoticCandle.png
-- Assets/AssetBundles/Sprite/ICO_ExoticTorch.png
-- Assets/AssetBundles/Texture2D/ICO_PlasmaBatteryMk4.png
 - Assets/AssetBundles/Texture2D/ICO_PlasmaBatteryMk5.png
 - Assets/AssetBundles/Texture2D/ICO_HeavyPlasmaCannonMk4.png
-- Assets/AssetBundles/Texture2D/ICO_PlasmaCannonMk4.png
-- Assets/AssetBundles/Sprite/ICO_HeavyPlasmaCannonMk5.png
-- Assets/AssetBundles/Sprite/ICO_PlasmaCannonMk4.png
-- Assets/AssetBundles/Texture2D/ICO_HeavyPlasmaBatteryMk4.png
-- Assets/AssetBundles/newhabmodules.manifest
-- Assets/AssetBundles/Sprite/ICO_HeavyPlasmaCannonMk4.png
-- Assets/AssetBundles/Texture2D/ExoticReactorII.png
-- Assets/AssetBundles/Sprite/ExoticReactorI.png
-- Assets/AssetBundles/Sprite/ICO_PlasmaBatteryMk4.png
-- Assets/AssetBundles/AssetBundles.manifest
-- Assets/AssetBundles/Sprite/ExoticReactorII.png
-- Assets/AssetBundles/Texture2D/ICO_HeavyPlasmaCannonMk5.png
-- Assets/AssetBundles/Texture2D/ExoticReactorI.png
-- Assets/AssetBundles/Texture2D/ICO_HeavyPlasmaBatteryMk5.png
-- Assets/AssetBundles/Sprite/ICO_ExoticCandle.png
 - Assets/AssetBundles/Texture2D/ExoticReactorIII.png
 - Assets/AssetBundles/Texture2D/ICO_PlasmaCannonMk5.png
-- Assets/AssetBundles/Sprite/ICO_PlasmaCannonMk5.png
+- Assets/AssetBundles/Sprite/ExoticReactorII.png
+- Assets/AssetBundles/Sprite/ICO_ExoticCandle.png
+- Assets/AssetBundles/Texture2D/ICO_PlasmaBatteryMk4.png
+- Assets/AssetBundles/Texture2D/ExoticReactorII.png
+- Assets/AssetBundles/Sprite/ExoticReactorI.png
+- Assets/AssetBundles/Texture2D/ICO_PlasmaCannonMk4.png
+- Assets/AssetBundles/newshipbuildericons.manifest
 - Assets/AssetBundles/Sprite/ExoticReactorIII.png
+- Assets/AssetBundles/Sprite/ICO_PlasmaCannonMk4.png
+- Assets/AssetBundles/Sprite/ICO_HeavyPlasmaCannonMk4.png
+- Assets/AssetBundles/Texture2D/ICO_HeavyPlasmaCannonMk5.png
+- Assets/AssetBundles/Sprite/ICO_HeavyPlasmaCannonMk5.png
+- Assets/AssetBundles/Texture2D/ICO_HeavyPlasmaBatteryMk5.png
+- Assets/AssetBundles/newhabmodules.manifest
+- Assets/AssetBundles/Sprite/ICO_HeavyPlasmaBatteryMk5.png
+- Assets/AssetBundles/Texture2D/ExoticReactorI.png
+- Assets/AssetBundles/AssetBundles.manifest
+- Assets/AssetBundles/Sprite/ICO_ExoticTorch.png
 - Assets/AssetBundles/Sprite/ICO_PlasmaBatteryMk5.png
+- Assets/AssetBundles/Texture2D/ICO_ExoticTorch.png
+- Assets/AssetBundles/Texture2D/ICO_ExoticCandle.png
+- Assets/AssetBundles/Sprite/ICO_PlasmaCannonMk5.png
+- Assets/AssetBundles/Texture2D/ICO_HeavyPlasmaBatteryMk4.png
+- Assets/AssetBundles/Sprite/ICO_HeavyPlasmaBatteryMk4.png
+- Assets/AssetBundles/Sprite/ICO_PlasmaBatteryMk4.png
 Dependencies: []
