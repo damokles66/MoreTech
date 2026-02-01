@@ -302,7 +302,7 @@
    "thrusters": 6,
    "driveClassification": "Antimatter",
    "requiredProjectName": "Project_ExoticCandle",
-   "thrust_N": 1200000000,
+   "thrust_N": 120000000,
    "EV_kps": 12720,
    "specificPower_kgMW": 0,
    "efficiency": 0.999,
