@@ -185,9 +185,7 @@
    "endGameTech": false,
    "researchCost": 50000,
    "prereqs": [
-      "Accelerando",
 	  "Mining2",
-	  "OrbitalTorusHabs",
 	  "ColonyHabs",
 	  "Diamondoids"
 	  
