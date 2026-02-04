@@ -445,11 +445,11 @@
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 360,
-      "water": -900,
-      "volatiles": -900,
-      "metals": -900,
-      "nobleMetals": -900,
-      "fissiles": -900
+      "water": -1500,
+      "volatiles": -1500,
+      "metals": -1500,
+      "nobleMetals": -1500,
+      "fissiles": -100
    },
    "weightedBuildMaterials": {
       "water": 0.05,
@@ -1483,7 +1483,7 @@
    "incomeResearch_month": 0,
    "incomeProjects": 0,
    "missionControl": 0,
-   "incomeWater_month": 650,
+   "incomeWater_month": 890,
    "incomeVolatiles_month": 0,
    "incomeNobles_month": 0,
    "incomeFissiles_month": 0,
@@ -1500,7 +1500,7 @@
       "metals": 30,
       "nobleMetals": 0.5,
 	  "fissiles": 0,
-	  "antimatter": 0.005,
+	  "antimatter": 0.01,
 	  "exotics": 0.01
    },
    "weightedBuildMaterials": {
@@ -1553,8 +1553,8 @@
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 30,
-      "Volatiles": 0,
-      "Water": 5,
+      "volatiles": 0,
+      "water": 5,
       "metals": 1,
       "nobleMetals": 0.1,
    },
@@ -1607,8 +1607,8 @@
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 60,
-      "Volatiles": 0,
-      "Water": 15.0,
+      "volatiles": 0,
+      "water": 15.0,
       "metals": 3,
       "nobleMetals": 0.5,
    },
@@ -1661,8 +1661,8 @@
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 120,
-      "Volatiles": 0,
-      "Water": 50.0,
+      "volatiles": 0,
+      "water": 50.0,
       "metals": 15,
       "nobleMetals": 0.5,
 	  "antimatter": 0.01,
@@ -1705,7 +1705,7 @@
    "incomeResearch_month": 0,
    "incomeProjects": 0,
    "missionControl": 0,
-   "incomeVolatiles_month": 650,
+   "incomeVolatiles_month": 890,
    "incomeWater_month": 0,
    "incomeNobles_month": 0,
    "incomeFissiles_month": 0,
@@ -1717,11 +1717,11 @@
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 120,
-      "Volatiles": 0,
-      "Water": 150.0,
+      "volatiles": 0,
+      "water": 150.0,
       "metals": 30,
       "nobleMetals": 0.5,
-	  "antimatter": 0.005,
+	  "antimatter": 0.01,
 	  "exotics": 0.1
    },
    "weightedBuildMaterials": {
@@ -1774,8 +1774,8 @@
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 30,
-      "Volatiles": 30.0,
-      "Water": 30.0,
+      "volatiles": 30.0,
+      "water": 30.0,
       "nobleMetals": 0.05,
    },
    "weightedBuildMaterials": {
@@ -1827,8 +1827,8 @@
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 60,
-      "Volatiles": 75.0,
-      "Water": 75.0,
+      "volatiles": 75.0,
+      "water": 75.0,
       "nobleMetals": 0.15,
    },
    "weightedBuildMaterials": {
@@ -1880,8 +1880,8 @@
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 120,
-      "Volatiles": 180.0,
-      "Water": 180.0,
+      "volatiles": 180.0,
+      "water": 180.0,
       "nobleMetals": 0.15,
    },
    "weightedBuildMaterials": {
@@ -1922,7 +1922,7 @@
    "incomeResearch_month": 0,
    "incomeProjects": 0,
    "missionControl": 0,
-   "incomeMetals_month": 2700,
+   "incomeMetals_month": 3300,
    "incomeWater_month": 0,
    "incomeNobles_month": 0,
    "incomeFissiles_month": 0,
@@ -1934,8 +1934,8 @@
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 120,
-      "Volatiles": 470.0,
-      "Water": 470.0,
+      "volatiles": 470.0,
+      "water": 470.0,
       "nobleMetals": 0.15,
 	  "exotics": 0.1
    },
@@ -1988,8 +1988,8 @@
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 30,
-      "Volatiles": 30.0,
-      "Water": 30.0,
+      "volatiles": 30.0,
+      "water": 30.0,
       "metals": 50,
    },
    "weightedBuildMaterials": {
@@ -2040,8 +2040,8 @@
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 60,
-      "Volatiles": 75.0,
-      "Water": 75.0,
+      "volatiles": 75.0,
+      "water": 75.0,
       "metals": 150,
    },
    "weightedBuildMaterials": {
@@ -2092,8 +2092,8 @@
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 120,
-      "Volatiles": 200.0,
-      "Water": 200.0,
+      "volatiles": 200.0,
+      "water": 200.0,
       "metals": 350,
    },
    "weightedBuildMaterials": {
@@ -2134,7 +2134,7 @@
    "incomeResearch_month": 0,
    "incomeProjects": 0,
    "missionControl": 0,
-   "incomeNobles_month": 750,
+   "incomeNobles_month": 940,
    "incomeWater_month": 0,
    "incomeFissiles_month": 0,
    "incomeAntimatter_month": 0,
@@ -2145,8 +2145,8 @@
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 120,
-      "Volatiles": 450.0,
-      "Water": 450.0,
+      "volatiles": 450.0,
+      "water": 450.0,
       "metals": 750,
 	  "exotics": 0.1
    },
@@ -2195,8 +2195,8 @@
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 30,
-      "Volatiles": 30,
-      "Water": 300,
+      "volatiles": 30,
+      "water": 300,
       "metals": 50,
 	  "nobleMetals": 0.05
    },
@@ -2249,8 +2249,8 @@
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 60,
-      "Volatiles": 75.0,
-      "Water": 75.0,
+      "volatiles": 75.0,
+      "water": 75.0,
       "metals": 150,
 	  "nobleMetals": 0.15
    },
@@ -2303,8 +2303,8 @@
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 120,
-      "Volatiles": 200.0,
-      "Water": 200.0,
+      "volatiles": 200.0,
+      "water": 200.0,
       "metals": 350,
 	  "nobleMetals": 0.15
    },
@@ -2358,8 +2358,8 @@
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 120,
-      "Volatiles": 500.0,
-      "Water": 500.0,
+      "volatiles": 500.0,
+      "water": 500.0,
       "metals": 750,
 	  "nobleMetals": 0.15,
 	  "exotics": 0.1
