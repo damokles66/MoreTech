@@ -449,7 +449,7 @@
       "volatiles": -1500,
       "metals": -1500,
       "nobleMetals": -1500,
-      "fissiles": -100
+      "fissiles": -1500
    },
    "weightedBuildMaterials": {
       "water": 0.05,
