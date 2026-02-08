@@ -19,5 +19,17 @@
    "contexts": [
       "HumanLifespan"
    ]
-}
+},
+ {
+   "dataName": "Effect_SpaceMiningBonus25",
+   "operation": "Additive",
+   "value": 0.025,
+   "effectTarget": "SourceFaction",
+   "effectDuration": "permanent",
+   "stackable": true,
+   "duration_months": -1,
+   "contexts": [
+      "SpaceMiningBonus"
+   ]
+},
 ]
