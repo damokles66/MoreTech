@@ -1905,7 +1905,7 @@
    "tier": 3,
    "requiredProjectName": "Project_MiningMetal5",
    "crew": 200,
-   "power": -2000,
+   "power": -1000,
    "reserved": 0,
    "upgradesFromName":"MetalMine4",
    "baseMass_tons": 3000,
