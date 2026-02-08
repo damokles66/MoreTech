@@ -10,7 +10,9 @@
 - Metal Irradiator: Turns metals and noble metals into fissible
 - Six advanced Mining-Habs (two per tier)  that consume exotics and/or antimatter for increased yield 
 - An advanced Nanofactoring complex using exotic matter to produce more money an improve buildtime
-
+- A set (in total 20) of deep core mines/wells starting with tier2(=settlement) bases including versions consuming antimatter and/or exotics[the images were AI created].
+- Two new control towers to increase control point capacity.
+- Two new ship engines and corresponding reactors.
 
 ## New Projects
 - Future-Tech: Welfare providing increased welfare reduction of global warming.
@@ -19,6 +21,7 @@
 - Two projects reducing MCU signature for alien hate without Pherocryte Analysis
 - Repeatable project to update the alien threat meter
 - Repeatable project to extend councillors life expectancy
+- Repeatable project to reduce alien hate
 
 ## New Ship-Equipment
 - Advanced plasma cannons (MK IV + MK V)
