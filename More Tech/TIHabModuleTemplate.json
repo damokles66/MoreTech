@@ -21,7 +21,7 @@
    "missionControl": 2,
    "constructionTimeModifier": 1,
    "miningModifier": 0,
-   "controlPointCapacity": 150,
+   "controlPointCapacity": 120,
    "techBonuses": [],
    "specialRules": [
       "LEOControlPointCapacity",
@@ -74,7 +74,7 @@
    "missionControl": 2,
    "constructionTimeModifier": 1,
    "miningModifier": 0,
-   "controlPointCapacity": 280,
+   "controlPointCapacity": 180,
    "techBonuses": [],
    "specialRules": [
       "LEOControlPointCapacity",
