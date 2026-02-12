@@ -1238,4 +1238,163 @@
 	"maxUnlockChance": 50,
 	"resourcesGranted": []
 },
+{
+	"friendlyName": "Civilian E-AM Reactor",
+	"dataName": "Project_EAMReactorCivil",
+	"techCategory": "Energy",
+	"AI_techRole": "SpaceDevelopment",
+	"AI_projectRole": "PowerPlant",
+	"researchCost": 1000000,
+	"prereqs":
+	[
+		"Project_EAMShipReactorII",
+	],
+	"effects": [
+	  "Effect_EconomyPriorityBonus1",
+	  "Effect_WelfarePriorityBonus05",
+	  "Effect_EnvironmentPriority10"
+	],
+	"oneTimeGlobally": false,
+	"repeatable": false,
+	"factionAvailableChance": 100,
+	"initialUnlockChance": 0,
+	"deltaUnlockChance": 5,
+	"maxUnlockChance": 50,
+	"resourcesGranted": []
+},
+{
+	"friendlyName": "PurgeDef1",
+	"dataName": "Project_PurgeDef1",
+	"techCategory": "SocialScience",
+	"AI_techRole": "EarthPolitics",
+	"AI_projectRole": "ExpandNation",
+	"researchCost": 2000,
+	"prereqs":
+	[
+		"ArrivalDomesticPolitics",
+	],
+	"effects": [
+	  "Effect_PurgeDef2"
+	],
+	"oneTimeGlobally": false,
+	"repeatable": false,
+	"factionAvailableChance": 100,
+	"initialUnlockChance": 0,
+	"deltaUnlockChance": 5,
+	"maxUnlockChance": 50,
+	"resourcesGranted": []
+},
+{
+	"friendlyName": "PurgeDef2",
+	"dataName": "Project_PurgeDef2",
+	"techCategory": "SocialScience",
+	"AI_techRole": "EarthPolitics",
+	"AI_projectRole": "ExpandNation",
+	"researchCost": 5000,
+	"prereqs":
+	[
+		"ArrivalLaw",
+		"Project_PurgeDef1",
+	],
+	"effects": [
+	  "Effect_PurgeDef2"
+	],
+	"oneTimeGlobally": false,
+	"repeatable": false,
+	"factionAvailableChance": 100,
+	"initialUnlockChance": 0,
+	"deltaUnlockChance": 5,
+	"maxUnlockChance": 50,
+	"resourcesGranted": []
+},
+{
+	"friendlyName": "PurgeDef3",
+	"dataName": "Project_PurgeDef3",
+	"techCategory": "SocialScience",
+	"AI_techRole": "EarthPolitics",
+	"AI_projectRole": "ExpandNation",
+	"researchCost": 10000,
+	"prereqs":
+	[
+		"GreatNations",
+		"Project_PurgeDef2",
+	],
+	"effects": [
+	  "Effect_PurgeDef2"
+	],
+	"oneTimeGlobally": false,
+	"repeatable": false,
+	"factionAvailableChance": 100,
+	"initialUnlockChance": 0,
+	"deltaUnlockChance": 5,
+	"maxUnlockChance": 50,
+	"resourcesGranted": []
+},
+{
+	"friendlyName": "PurgeDef4",
+	"dataName": "Project_PurgeDef4",
+	"techCategory": "SocialScience",
+	"AI_techRole": "EarthPolitics",
+	"AI_projectRole": "ExpandNation",
+	"researchCost": 40000,
+	"prereqs":
+	[
+		"ArrivalGovernance",
+		"Project_PurgeDef3",
+	],
+	"effects": [
+	  "Effect_PurgeDef2"
+	],
+	"oneTimeGlobally": false,
+	"repeatable": false,
+	"factionAvailableChance": 100,
+	"initialUnlockChance": 0,
+	"deltaUnlockChance": 5,
+	"maxUnlockChance": 50,
+	"resourcesGranted": []
+},
+{
+	"friendlyName": "PurgeDef5",
+	"dataName": "Project_PurgeDef5",
+	"techCategory": "SocialScience",
+	"AI_techRole": "EarthPolitics",
+	"AI_projectRole": "ExpandNation",
+	"researchCost": 80000,
+	"prereqs":
+	[	"InterplanetaryPolities",
+		"Project_PurgeDef4",
+	],
+	"effects": [
+	  "Effect_PurgeDef2"
+	],
+	"oneTimeGlobally": false,
+	"repeatable": false,
+	"factionAvailableChance": 100,
+	"initialUnlockChance": 0,
+	"deltaUnlockChance": 5,
+	"maxUnlockChance": 50,
+	"resourcesGranted": []
+},
+{
+	"friendlyName": "PurgeDef6",
+	"dataName": "Project_PurgeDef6",
+	"techCategory": "SocialScience",
+	"AI_techRole": "EarthPolitics",
+	"AI_projectRole": "ExpandNation",
+	"researchCost": 1000000,
+	"prereqs":
+	[	"Admin5",
+		"Project_PurgeDef5",
+	],
+	"effects": [
+	  "Effect_PurgeDef20"
+	],
+	"oneTimeGlobally": false,
+	"repeatable": false,
+	"factionAvailableChance": 100,
+	"initialUnlockChance": 0,
+	"deltaUnlockChance": 5,
+	"maxUnlockChance": 50,
+	"resourcesGranted": []
+},
 ]

@@ -32,4 +32,28 @@
       "SpaceMiningBonus"
    ]
 },
+ {
+   "dataName": "Effect_PurgeDef2",
+   "operation": "Additive",
+   "value": 2,
+   "effectTarget": "SourceFaction",
+   "effectDuration": "permanent",
+   "stackable": true,
+   "duration_months": -1,
+   "contexts": [
+      "Mission_Purge_Def"
+   ]
+},
+ {
+   "dataName": "Effect_PurgeDef20",
+   "operation": "Additive",
+   "value": 5,
+   "effectTarget": "SourceFaction",
+   "effectDuration": "permanent",
+   "stackable": true,
+   "duration_months": -1,
+   "contexts": [
+      "Mission_Purge_Def"
+   ]
+},
 ]

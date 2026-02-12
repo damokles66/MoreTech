@@ -20,7 +20,7 @@
    "buildTime_Days": 240,
    "missionControl": 2,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "controlPointCapacity": 120,
    "techBonuses": [],
    "specialRules": [
@@ -73,7 +73,7 @@
    "buildTime_Days": 330,
    "missionControl": 2,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "controlPointCapacity": 180,
    "techBonuses": [],
    "specialRules": [
@@ -138,7 +138,7 @@
    "incomeExotics_month": 0.1,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 120,
@@ -172,7 +172,7 @@
    "onePerHab": false,
    "automated": false,
    "allowsShipConstruction": false,
-   "allowsResupply": true,
+   "allowsResupply": false,
    "mine": false,
    "noBuild": false,
    "destroyed": false,
@@ -196,7 +196,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 0.5,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [
       {
          "category": "Materials",
@@ -267,7 +267,7 @@
    "incomeExotics_month": 1.0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 360,
@@ -326,7 +326,7 @@
    "incomeExotics_month": 0.0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 240,
@@ -384,7 +384,7 @@
    "incomeExotics_month": 0.0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 360,
@@ -441,7 +441,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 360,
@@ -502,7 +502,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "controlPointCapacity": 0,
    "techBonuses": [],
    "specialRules": [
@@ -560,7 +560,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 60,
@@ -616,7 +616,7 @@
     "incomeExotics_month": 0,
     "spaceCombatValue": 0,
     "constructionTimeModifier": 1,
-    "miningModifier": 0,
+    "miningModifier": 9,
     "techBonuses": [],
     "unlocksProjectName": "",
     "specialRules": [
@@ -1214,7 +1214,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 100,
@@ -1269,7 +1269,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 100,
@@ -1327,7 +1327,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 30,
@@ -1380,7 +1380,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "upgradesFromName":"WaterMine2",
    "supportMaterials_month": {
@@ -1435,7 +1435,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 60,
@@ -1490,7 +1490,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 120,
@@ -1546,7 +1546,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 30,
@@ -1600,7 +1600,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 45,
@@ -1654,7 +1654,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 60,
@@ -1709,7 +1709,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 120,
@@ -1764,7 +1764,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 30,
@@ -1817,7 +1817,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 45,
@@ -1870,7 +1870,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 60,
@@ -1924,7 +1924,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 120,
@@ -1978,7 +1978,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 30,
@@ -2030,7 +2030,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 45,
@@ -2082,7 +2082,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 60,
@@ -2136,7 +2136,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 120,
@@ -2186,7 +2186,7 @@
    "incomeFissiles_month": 9,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 30,
@@ -2239,7 +2239,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 45,
@@ -2292,7 +2292,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 60,
@@ -2346,7 +2346,7 @@
    "incomeExotics_month": 0,
    "spaceCombatValue": 0,
    "constructionTimeModifier": 1,
-   "miningModifier": 0,
+   "miningModifier": 9,
    "techBonuses": [],
    "supportMaterials_month": {
       "money": 120,
