@@ -1162,6 +1162,29 @@
    "maxUnlockChance": 100,
    "resourcesGranted": []
 },
+ {
+   "friendlyName": "Project Mining Freebies",
+   "dataName": "Project_MiningFreebies",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "SpaceResources",
+   "researchCost": 100,
+   "prereqs": [
+      "Project_MiningWater5",
+	  "Project_MiningFissiles5",
+	  "Project_MiningNoble5",
+	  "Project_MiningVolatiles5",
+	  "Project_MiningMetal5",
+   ],
+   "effects": ["Effect_SpaceMineFreebies6_SingleFaction"],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
 {
 	"friendlyName": "E-AM Reactor",
 	"dataName": "Project_EAMShipReactorI",

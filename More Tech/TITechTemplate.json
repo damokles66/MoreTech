@@ -169,6 +169,7 @@
    "AI_criticalTech": false,
    "endGameTech": false,
    "researchCost": 7500,
+   "effects:": ["Effect_SpaceMineFreebies4"],
    "prereqs": [
       "IndustrializationofSpace",
 	  "SuperAlloys",
@@ -184,6 +185,7 @@
    "AI_criticalTech": false,
    "endGameTech": false,
    "researchCost": 50000,
+   "effects:": ["Effect_SpaceMineFreebies6"],
    "prereqs": [
 	  "Mining2",
 	  "ColonyHabs",
@@ -199,6 +201,7 @@
    "AI_criticalTech": false,
    "endGameTech": false,
    "researchCost": 150000,
+   "effects:": ["Effect_SpaceMineFreebies6"],
    "prereqs": [
       "SpaceMiningAdvanced",
 	  "Mining3"
@@ -212,6 +215,7 @@
    "AI_criticalTech": false,
    "endGameTech": false,
    "researchCost": 250000,
+   "effects:": ["Effect_SpaceMineFreebies6"],
    "prereqs": [
 	  "Mining4",
 	  "ExoticAlloys"
