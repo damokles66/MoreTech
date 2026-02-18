@@ -31,5 +31,17 @@
    "contexts": [
       "SpaceMiningBonus"
    ]
-}
+},
+ {
+   "dataName": "Effect_SpaceMineFreebies1_SingleFaction",
+   "operation": "Additive",
+   "value": 1,
+   "effectTarget": "SourceFaction",
+   "effectDuration": "permanent",
+   "stackable": true,
+   "duration_months": -1,
+   "contexts": [
+      "MCFreeSpaceMineNetwork"
+   ]
+},
 ]

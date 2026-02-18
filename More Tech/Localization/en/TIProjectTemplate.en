@@ -199,3 +199,6 @@ TIProjectTemplate.summary.Project_ExoticArmy=We upgrade our armies with advanced
 
 TIProjectTemplate.displayName.Project_EAMReactorCivil=Civilian E/AM Reactors
 TIProjectTemplate.summary.Project_EAMReactorCivil=We allow E/AM reactors for civilian usage.
+
+TIProjectTemplate.displayName.Project_MiningFreebies=Advanced Space Mining Network Administration
+TIProjectTemplate.summary.Project_MiningFreebies=We increase our capacity to manage a larger space mining network

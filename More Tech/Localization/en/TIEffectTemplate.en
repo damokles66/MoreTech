@@ -3,3 +3,5 @@ TIEffectTemplate.description.Effect_SubstractAlienHate5=-Reduce alien hate by 5
 
 TIEffectTemplate.description.Effect_LifeExtension20=-Our councilors will on average live 20 years longer
 TIEffectTemplate.description.Effect_SpaceMiningBonus25=-Off-Earth mining output increased by {3}
+
+TIEffectTemplate.description.Effect_SpaceMineFreebies1_SingleFaction=-The number of habitat mining modules we can support without paying a Mission Control cost increases by {0}
