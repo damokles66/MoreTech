@@ -1239,7 +1239,7 @@
    "techCategory": "Materials",
    "AI_techRole": "SpaceDevelopment",
    "AI_projectRole": "SpaceResources",
-   "researchCost": 40000,
+   "researchCost": 50000,
    "prereqs": [
 	"Project_MiningFreebies4",
       "Project_MiningWater5",
