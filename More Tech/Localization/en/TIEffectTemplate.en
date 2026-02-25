@@ -5,3 +5,6 @@ TIEffectTemplate.description.Effect_LifeExtension20=-Our councilors will on aver
 TIEffectTemplate.description.Effect_SpaceMiningBonus25=-Off-Earth mining output increased by {3}
 
 TIEffectTemplate.description.Effect_SpaceMineFreebies1_SingleFaction=-The number of habitat mining modules we can support without paying a Mission Control cost increases by {0}
+TIEffectTemplate.description.Effect_SpaceMineFreebies2_SingleFaction=-The number of habitat mining modules we can support without paying a Mission Control cost increases by {0}
+TIEffectTemplate.description.Effect_SpaceMineFreebies4_SingleFaction=-The number of habitat mining modules we can support without paying a Mission Control cost increases by {0}
+TIEffectTemplate.description.Effect_SpaceMineFreebies6_SingleFaction=-The number of habitat mining modules we can support without paying a Mission Control cost increases by {0}

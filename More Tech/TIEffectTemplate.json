@@ -44,4 +44,40 @@
       "MCFreeSpaceMineNetwork"
    ]
 },
+ {
+   "dataName": "Effect_SpaceMineFreebies2_SingleFaction",
+   "operation": "Additive",
+   "value": 2,
+   "effectTarget": "SourceFaction",
+   "effectDuration": "permanent",
+   "stackable": true,
+   "duration_months": -1,
+   "contexts": [
+      "MCFreeSpaceMineNetwork"
+   ]
+},
+ {
+   "dataName": "Effect_SpaceMineFreebies4_SingleFaction",
+   "operation": "Additive",
+   "value": 4,
+   "effectTarget": "SourceFaction",
+   "effectDuration": "permanent",
+   "stackable": true,
+   "duration_months": -1,
+   "contexts": [
+      "MCFreeSpaceMineNetwork"
+   ]
+},
+ {
+   "dataName": "Effect_SpaceMineFreebies6_SingleFaction",
+   "operation": "Additive",
+   "value": 6,
+   "effectTarget": "SourceFaction",
+   "effectDuration": "permanent",
+   "stackable": true,
+   "duration_months": -1,
+   "contexts": [
+      "MCFreeSpaceMineNetwork"
+   ]
+},
 ]
