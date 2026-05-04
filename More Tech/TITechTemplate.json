@@ -75,7 +75,7 @@
    "researchCost": 400000,
    "prereqs": [
       "AdvancedPlasmaWeapons",
-	  "AntimatterWeapons",
+	  "AntimatterWeaponry",
 	  "ExoticMatterMassProduction",
    ]
 },
@@ -172,7 +172,7 @@
    "effects:": ["Effect_SpaceMineFreebies4"],
    "prereqs": [
       "IndustrializationofSpace",
-	  "SuperAlloys",
+	  "Superalloys",
 	  "OrbitalRingHabs",
 	  "SettlementHabs"
    ]
