@@ -1,0 +1,45 @@
+[
+ {
+   "dataName": "ETendril",
+   "friendlyName": "Exotic Tendril",
+   "specificMass_2s_kgm2": 50,
+   "specificPower_2s_KWkg": 28,
+   "operatingTemp_K": 2500,
+   "emissivity": 0.98,
+   "vulnerability": 1,
+   "collector": false,
+   "requiredProjectName": "Project_ETendril",
+   "crew": 0,
+   "weightedBuildMaterials": {
+      "volatiles": 0.896,
+      "metals": 0.096,
+      "nobleMetals": 0,
+      "exotics": 0.004,
+	  "antimatter": 0.004
+   },
+   "iconResource": "shipbuildericons/ICO_ExoticTendrilRadiator",
+   "combatUIpath": "spike",
+   "radiatorType": "Spike"
+}, {
+   "dataName": "ETendril2",
+   "friendlyName": "Exotic Tendril",
+   "specificMass_2s_kgm2": 50,
+   "specificPower_2s_KWkg": 40,
+   "operatingTemp_K": 2500,
+   "emissivity": 0.99,
+   "vulnerability": 1,
+   "collector": false,
+   "requiredProjectName": "Project_ETendril2",
+   "crew": 0,
+   "weightedBuildMaterials": {
+      "volatiles": 0.8,
+      "metals": 0.09,
+      "nobleMetals": 0,
+      "exotics": 0.055,
+	  "antimatter": 0.055
+   },
+   "iconResource": "shipbuildericons/ICO_ExoticTendrilRadiator",
+   "combatUIpath": "spike",
+   "radiatorType": "Spike"
+}
+]

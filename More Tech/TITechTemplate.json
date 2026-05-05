@@ -13,6 +13,18 @@
    ]
 },
  {
+   "friendlyName": "AM Heat Management Concepts",
+   "dataName": "AMHeat",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_criticalTech": false,
+   "endGameTech": false,
+   "researchCost": 80000,
+   "prereqs": [
+      "AntimatterMassProduction"
+   ]
+},
+ {
    "friendlyName": "Exotic Matter Mass Production",
    "dataName": "ExoticMatterMassProduction",
    "techCategory": "Materials",
@@ -22,6 +34,19 @@
    "researchCost": 160000,
    "prereqs": [
       "ExoticMatterProduction"
+   ]
+},
+ {
+   "friendlyName": "E/AM Heat Management Concepts",
+   "dataName": "EAMHeat",
+   "techCategory": "Materials",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_criticalTech": false,
+   "endGameTech": false,
+   "researchCost": 160000,
+   "prereqs": [
+      "ExoticMatterMassProduction",
+	  "AMHeat"
    ]
 },
  {

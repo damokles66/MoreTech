@@ -19,7 +19,7 @@ TIProjectTemplate.summary.Project_BSuperCollider=<habmodule>
 
 TIProjectTemplate.displayName.Project_Sniffing=Pherocyte Analysis
 TIProjectTemplate.summary.Project_Sniffing=Allows us to retrieve information about the alien stance from their Pherocyte emissions.
-TIProjectTemplate.description.Project_Sniffing=Updates the alian threat evaluation by analysing the Pherocyte found by us.
+TIProjectTemplate.description.Project_Sniffing=Updates the alien threat evaluation by analysing the Pherocyte found by us.
 
 TIProjectTemplate.displayName.Project_OSSuperCollider=Advanced Supercollider
 TIProjectTemplate.summary.Project_OSSuperCollider=<habmodule>
@@ -211,3 +211,10 @@ TIProjectTemplate.summary.Project_MiningFreebies=We increase our capacity to man
 
 TIProjectTemplate.displayName.Project_MiningFreebies6=Advanced Space Mining Network Administration
 TIProjectTemplate.summary.Project_MiningFreebies6=We increase our capacity to manage an even larger space mining network
+
+
+TIProjectTemplate.displayName.Project_ETendril=Improved Exotic Spike Radiator
+TIProjectTemplate.summary.Project_ETendril=Replicates the performance of the Tendril Radiators commonly found on alien ships.
+
+TIProjectTemplate.displayName.Project_ETendril2=Advanced Exotic Spike Radiator
+TIProjectTemplate.summary.Project_ETendril2=Improves upon the performance of the Tendril Radiator commonly found on alien ships.

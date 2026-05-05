@@ -1376,5 +1376,44 @@
 	"deltaUnlockChance": 5,
 	"maxUnlockChance": 50,
 	"resourcesGranted": []
-}
+},
+{
+   "friendlyName": "Alien Exoctic Tendril Radiator",
+   "dataName": "Project_ETendril",
+   "techCategory": "MilitaryScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "HabInfrastructure",
+   "researchCost": 40000,
+   "prereqs": [
+      "ExoticAlloys",
+	  "AMHeat",
+	  "Project_ExoticSpikeRadiator"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+{
+   "friendlyName": "Advanced Improved Exoctic Tendril Radiator",
+   "dataName": "Project_ETendril2",
+   "techCategory": "MilitaryScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "HabInfrastructure",
+   "researchCost": 80000,
+   "prereqs": [
+      "Project_ETendril",
+	  "EAMHeat"
+   ],
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 100,
+   "deltaUnlockChance": 15,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
 ]
