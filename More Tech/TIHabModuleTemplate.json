@@ -1396,7 +1396,7 @@
       "metals": 0.8,
       "nobleMetals": 0.05,
    },
-   "baseIconResource": "newhabmodules/T2Water",
+   "baseIconResource": "newhabmodules/T3Water",
    "alertWorthy": false,
    "alienModule": false,
    "objectiveModule": false
@@ -1450,7 +1450,7 @@
       "metals": 0.8,
       "nobleMetals": 0.04,
    },
-   "baseIconResource": "newhabmodules/T2Water",
+   "baseIconResource": "newhabmodules/T4Water",
    "alertWorthy": false,
    "alienModule": false,
    "objectiveModule": false
@@ -1614,7 +1614,7 @@
       "metals": 0.8,
       "nobleMetals": 0.05,
    },
-   "baseIconResource": "newhabmodules/T2Volatiles",
+   "baseIconResource": "newhabmodules/T3Volatiles",
    "alertWorthy": false,
    "alienModule": false,
    "objectiveModule": false
@@ -1668,7 +1668,7 @@
       "metals": 0.8,
       "nobleMetals": 0.04,
    },
-   "baseIconResource": "newhabmodules/T2Volatiles",
+   "baseIconResource": "newhabmodules/T4Volatiles",
    "alertWorthy": false,
    "alienModule": false,
    "objectiveModule": false
@@ -1829,7 +1829,7 @@
       "metals": 0.8,
       "nobleMetals": 0.05,
    },
-   "baseIconResource": "newhabmodules/T2Metal",
+   "baseIconResource": "newhabmodules/T3Metal",
    "alertWorthy": false,
    "alienModule": false,
    "objectiveModule": false
@@ -1882,7 +1882,7 @@
       "metals": 0.8,
       "nobleMetals": 0.04,
    },
-   "baseIconResource": "newhabmodules/T2Metal",
+   "baseIconResource": "newhabmodules/T4Metal",
    "alertWorthy": false,
    "alienModule": false,
    "objectiveModule": false
@@ -2041,7 +2041,7 @@
       "metals": 0.8,
       "nobleMetals": 0.05,
    },
-   "baseIconResource": "newhabmodules/T2Noble",
+   "baseIconResource": "newhabmodules/T3Noble",
    "alertWorthy": false,
    "alienModule": false,
    "objectiveModule": false
@@ -2093,7 +2093,7 @@
       "metals": 0.8,
       "nobleMetals": 0.04,
    },
-   "baseIconResource": "newhabmodules/T2Noble",
+   "baseIconResource": "newhabmodules/T4Noble",
    "alertWorthy": false,
    "alienModule": false,
    "objectiveModule": false
@@ -2248,7 +2248,7 @@
       "metals": 0.8,
       "nobleMetals": 0.05,
    },
-   "baseIconResource": "newhabmodules/T2Fissiles",
+   "baseIconResource": "newhabmodules/T3Fissiles",
    "alertWorthy": false,
    "alienModule": false,
    "objectiveModule": false
@@ -2301,7 +2301,7 @@
       "metals": 0.8,
       "nobleMetals": 0.04,
    },
-   "baseIconResource": "newhabmodules/T2Fissiles",
+   "baseIconResource": "newhabmodules/T4Fissiles",
    "alertWorthy": false,
    "alienModule": false,
    "objectiveModule": false
