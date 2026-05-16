@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3547563489
+CRC: 1554678686
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 456166945b669e340ab8cd2664745b1b
+    Hash: 8e8c3da27e84fe746a2eddddbe23e82f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
@@ -18,8 +18,9 @@ Assets:
 - Assets/Prefabs/Sprite/AdvancedSupercollider.png
 - Assets/Prefabs/Sprite/T3Metal.png
 - Assets/Prefabs/Sprite/T3Fissiles.png
-- Assets/Prefabs/Sprite/T5Noble.png
+- Assets/Prefabs/Sprite/T4Fissiles.png
 - Assets/Prefabs/Texture2D/T2Water.png
+- Assets/Prefabs/Sprite/T5Noble.png
 - Assets/Prefabs/Sprite/Noblelizer.png
 - Assets/Prefabs/Sprite/ExoticFuser.png
 - Assets/Prefabs/Sprite/ImprovedSupercollider.png
@@ -64,12 +65,11 @@ Assets:
 - Assets/Prefabs/Sprite/base_T5_AdministrationCenter.png
 - Assets/Prefabs/Sprite/T4Water.png
 - Assets/Prefabs/Sprite/T5Fissiles.png
-- Assets/Prefabs/Sprite/T4Fissiles.png
+- Assets/Prefabs/Texture2D/T4Noble.png
 - Assets/Prefabs/Texture2D/base_T4_AdministrationController.png
 - Assets/Prefabs/Sprite/T3Volatiles.png
 - Assets/Prefabs/Texture2D/T5Water.png
 - Assets/Prefabs/Texture2D/Noblelizer.png
-- Assets/Prefabs/Texture2D/T4Noble.png
 - Assets/Prefabs/Texture2D/T4Fissiles.png
 - Assets/Prefabs/Texture2D/ExoticFuser.png
 - Assets/Prefabs/Texture2D/station_T3_ExoticsFuser.png
