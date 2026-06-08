@@ -1,0 +1,14 @@
+TIDriveTemplate.displayName.ExoticTorchx1=奇异物质火炬引擎 x1
+TIDriveTemplate.description.ExoticTorchx1=稳态质子/反质子反应产生的带电π介子在磁场引导下，产生巨大推力。
+TIDriveTemplate.displayName.ExoticTorchx2=奇异物质火炬引擎 x2
+TIDriveTemplate.displayName.ExoticTorchx3=奇异物质火炬引擎 x3
+TIDriveTemplate.displayName.ExoticTorchx4=奇异物质火炬引擎 x4
+TIDriveTemplate.displayName.ExoticTorchx5=奇异物质火炬引擎 x5
+TIDriveTemplate.displayName.ExoticTorchx6=奇异物质火炬引擎 x6
+TIDriveTemplate.displayName.ExoticCandlex1=奇异物质烛式引擎 x1
+TIDriveTemplate.description.ExoticCandlex1=稳态质子/反质子反应产生的带电π介子在磁场引导下，产生巨大推力。
+TIDriveTemplate.displayName.ExoticCandlex2=奇异物质烛式引擎 x2
+TIDriveTemplate.displayName.ExoticCandlex3=奇异物质烛式引擎 x3
+TIDriveTemplate.displayName.ExoticCandlex4=奇异物质烛式引擎 x4
+TIDriveTemplate.displayName.ExoticCandlex5=奇异物质烛式引擎 x5
+TIDriveTemplate.displayName.ExoticCandlex6=奇异物质烛式引擎 x6

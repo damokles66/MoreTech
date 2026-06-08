@@ -1,0 +1,2 @@
+TIShipArmorTemplate.displayName.AdvancedHybridArmor=先进复合装甲
+TIShipArmorTemplate.description.AdvancedHybridArmor=对奇异材料的全面理解使我们能够改进原有的复合装甲。

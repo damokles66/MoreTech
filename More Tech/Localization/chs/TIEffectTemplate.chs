@@ -1,0 +1,10 @@
+TIEffectTemplate.displayName.Effect_SubstractAlienHate5=减少外星敌意 5
+TIEffectTemplate.description.Effect_SubstractAlienHate5=-减少外星敌意 5
+
+TIEffectTemplate.description.Effect_LifeExtension20=-我们的理事会成员平均寿命延长 20 年
+TIEffectTemplate.description.Effect_SpaceMiningBonus25=-地外采矿产量增加 {3}
+
+TIEffectTemplate.description.Effect_SpaceMineFreebies1_SingleFaction=-我们在无需支付任务控制费用的情况下可支持的居住区采矿模块数量增加 {0}
+TIEffectTemplate.description.Effect_SpaceMineFreebies2_SingleFaction=-我们在无需支付任务控制费用的情况下可支持的居住区采矿模块数量增加 {0}
+TIEffectTemplate.description.Effect_SpaceMineFreebies4_SingleFaction=-我们在无需支付任务控制费用的情况下可支持的居住区采矿模块数量增加 {0}
+TIEffectTemplate.description.Effect_SpaceMineFreebies6_SingleFaction=-我们在无需支付任务控制费用的情况下可支持的居住区采矿模块数量增加 {0}
