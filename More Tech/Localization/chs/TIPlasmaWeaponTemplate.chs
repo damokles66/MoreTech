@@ -1,0 +1,16 @@
+TIPlasmaWeaponTemplate.displayName.PlasmaBatteryMk4=等离子电池 Mk 4
+TIPlasmaWeaponTemplate.description.PlasmaBatteryMk4=高能致密等离子体环流在磁脉冲推动下射向目标，造成远程伤害。
+TIPlasmaWeaponTemplate.displayName.HeavyPlasmaBatteryMk4=重型等离子电池 Mk 4
+TIPlasmaWeaponTemplate.description.HeavyPlasmaBatteryMk4=高能致密等离子体环流在磁脉冲推动下射向目标，造成远程伤害。
+TIPlasmaWeaponTemplate.displayName.PlasmaCannonMk4=重型等离子炮 Mk 4
+TIPlasmaWeaponTemplate.description.PlasmaCannonMk4=高能致密等离子体环流在磁脉冲推动下射向目标，造成远程伤害。
+TIPlasmaWeaponTemplate.displayName.HeavyPlasmaCannonMk4=超重型等离子炮 Mk 4
+TIPlasmaWeaponTemplate.description.HeavyPlasmaCannonMk4=高能致密等离子体环流在磁脉冲推动下射向目标，造成远程伤害。
+TIPlasmaWeaponTemplate.displayName.PlasmaBatteryMk5=等离子电池 Mk 5
+TIPlasmaWeaponTemplate.description.PlasmaBatteryMk5=高能致密等离子体环流在磁脉冲推动下射向目标，造成远程伤害。
+TIPlasmaWeaponTemplate.displayName.HeavyPlasmaBatteryMk5=重型等离子电池 Mk 5
+TIPlasmaWeaponTemplate.description.HeavyPlasmaBatteryMk5=高能致密等离子体环流在磁脉冲推动下射向目标，造成远程伤害。
+TIPlasmaWeaponTemplate.displayName.PlasmaCannonMk5=重型等离子炮 Mk 5
+TIPlasmaWeaponTemplate.description.PlasmaCannonMk5=高能致密等离子体环流在磁脉冲推动下射向目标，造成远程伤害。
+TIPlasmaWeaponTemplate.displayName.HeavyPlasmaCannonMk5=超重型等离子炮 Mk 5
+TIPlasmaWeaponTemplate.description.HeavyPlasmaCannonMk5=高能致密等离子体环流在磁脉冲推动下射向目标，造成远程伤害。

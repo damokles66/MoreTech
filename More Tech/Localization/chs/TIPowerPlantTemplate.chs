@@ -1,0 +1,6 @@
+TIPowerPlantTemplate.displayName.ExoticAntimatterBeamCoreReactorI=奇异/反物质束流核心反应堆 I
+TIPowerPlantTemplate.description.ExoticAntimatterBeamCoreReactorI=持续的奇异-反物质反应提供数太瓦的电力。
+TIPowerPlantTemplate.displayName.ExoticAntimatterBeamCoreReactorII=奇异/反物质束流核心反应堆 II
+TIPowerPlantTemplate.description.ExoticAntimatterBeamCoreReactorII=持续的奇异-反物质反应提供数太瓦的电力。
+TIPowerPlantTemplate.displayName.ExoticAntimatterBeamCoreReactorIII=奇异/反物质束流核心反应堆 III
+TIPowerPlantTemplate.description.ExoticAntimatterBeamCoreReactorIII=持续的奇异-反物质反应提供数太瓦的电力。

@@ -1,0 +1,5 @@
+TIRadiatorTemplate.displayName.ETendril=改进型奇异尖刺散热器
+TIRadiatorTemplate.description.ETendril=由外星材料制成的尖刺阵列，利用反物质辐射快速排出废热。
+
+TIRadiatorTemplate.displayName.ETendril2=先进奇异尖刺散热器
+TIRadiatorTemplate.description.ETendril2=由外星材料制成的尖刺阵列，利用正反物质辐射快速排出废热。
