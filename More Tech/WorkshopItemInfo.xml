@@ -44,7 +44,10 @@ For a change in balance regarding the vanilla buildings you can check out [url=h
 
 
 Note:
-[i]If you just activated the mod, or run the first time after a mod-update, it is possible that names of e.g. projects/technology or icons (e.g. hab-buildings) are not displayed correctly. Just restart the game with the mod remaining active. [/i]</Description>
+[i]If you just activated the mod, or run the first time after a mod-update, it is possible that names of e.g. projects/technology or icons (e.g. hab-buildings) are not displayed correctly. Just restart the game with the mod remaining active. [/i]
+
+
+Now including Chinese translation thanks to [url=https://steamcommunity.com/profiles/76561199194181448]BCSK233[/url]</Description>
   <IconFileName>More Tech.png</IconFileName>
   <Tags />
 </WorkshopItemInfo>

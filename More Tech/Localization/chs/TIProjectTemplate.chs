@@ -204,7 +204,7 @@ TIProjectTemplate.displayName.Project_MiningFreebies2=太空采矿网络管理
 TIProjectTemplate.summary.Project_MiningFreebies2=我们正式确立并简化了太空采矿网络的管理。
 
 TIProjectTemplate.displayName.Project_MiningFreebies4=改进型太空采矿网络管理
-TIProjectTemplate.summary.Project_MiningFreebies=我们提升了管理更大规模太空采矿网络的能力。
+TIProjectTemplate.summary.Project_MiningFreebies4=我们提升了管理更大规模太空采矿网络的能力。
 
 TIProjectTemplate.displayName.Project_MiningFreebies6=先进太空采矿网络管理
 TIProjectTemplate.summary.Project_MiningFreebies6=我们提升了管理更大规模太空采矿网络的能力。
