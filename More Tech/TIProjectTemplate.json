@@ -1,5 +1,46 @@
 [
   {
+    "friendlyName": "Replicator Stations",
+    "dataName": "Project_AgricultureComplex2",
+   "techCategory": "LifeScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_criticalTech": true,
+   "AI_projectRole": "HabInfrastructure",
+   "researchCost": 50000,
+   "prereqs": [
+      "Project_AgricultureComplex",
+      "Admin4"
+   ],
+   "altPrereq0": "Project_ColonyCore",
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 0,
+   "deltaUnlockChance": 5,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+  {
+    "friendlyName": "Civilian Mega Complex",
+    "dataName": "Project_CivilianComplex2",
+    "techCategory": "LifeScience",
+   "AI_techRole": "SpaceDevelopment",
+   "AI_projectRole": "HabInfrastructure",
+   "researchCost": 30000,
+   "prereqs": [
+      "Project_CivilianComplex",
+      "Admin4"
+   ],
+   "altPrereq0": "Project_ColonyCore",
+   "oneTimeGlobally": false,
+   "repeatable": false,
+   "factionAvailableChance": 100,
+   "initialUnlockChance": 0,
+   "deltaUnlockChance": 10,
+   "maxUnlockChance": 100,
+   "resourcesGranted": []
+},
+  {
     "friendlyName": "Research Lab",
     "dataName": "Project_ResearchLab",
     "techCategory": "Energy",

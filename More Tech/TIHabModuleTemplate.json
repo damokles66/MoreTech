@@ -1,5 +1,103 @@
 [
  {
+   "dataName": "Replicators",
+   "friendlyName": "Replicators",
+   "coreModule": false,
+   "habType": "Any",
+   "onePerHab": false,
+   "automated": false,
+   "allowsShipConstruction": false,
+   "allowsResupply": false,
+   "mine": false,
+   "noBuild": false,
+   "destroyed": false,
+   "tier": 3,
+   "upgradesFromName": "AgricultureComplex",
+   "requiredProjectName": "Project_AgricultureComplex2",
+   "crew": 150,
+   "power": -500,
+   "baseMass_tons": 10000,
+   "buildTime_Days": 240,
+   "constructionTimeModifier": 1,
+   "miningModifier": 0,
+   "controlPointCapacity": 0,
+   "techBonuses": [],
+   "specialRules": [
+      "Farm",
+      "PowerFirst"
+   ],
+   "supportMaterials_month": {
+	  "antimatter":0.01
+	  "exotics":0.01
+   },
+   "specialRulesValue": 35000,
+   "weightedBuildMaterials": {
+      "water": 0.5,
+      "volatiles": 0.45,
+      "metals": 0.05
+   },
+   "baseIconResource": "habmodules/base_T3_AgricultureComplex",
+   "stationIconResource": "habmodules/station_T3_AgricultureComplex",
+   "stationModelResource": "habmodules/station_T3_AgricultureComplex_Module",
+   "stationDestructionResource": "habmodules/stationdestruction_T3_generic",
+   "alertWorthy": false,
+   "alienModule": false,
+   "objectiveModule": false,
+   "disable": false
+},
+ {
+   "dataName": "CivilianMegaComplex",
+   "friendlyName": "Civilian Mega Complex",
+   "coreModule": false,
+   "habType": "Any",
+   "onePerHab": false,
+   "automated": false,
+   "allowsShipConstruction": false,
+   "allowsResupply": false,
+   "mine": false,
+   "noBuild": false,
+   "destroyed": false,
+   "tier": 3,
+   "upgradesFromName": "CivilianComplex",
+   "requiredProjectName": "Project_CivilianComplex2",
+   "crew": 25000,
+   "power": -500,
+   "baseMass_tons": 10000,
+   "buildTime_Days": 240,
+   "incomeMoney_month": 80,
+   "incomeInfluence_month": 20,
+   "constructionTimeModifier": 1,
+   "miningModifier": 0,
+   "controlPointCapacity": 0,
+   "techBonuses": [],
+   "specialRules": [
+      "Stability",
+      "AtrocityToKill",
+      "AtrocityToLose"
+   ],
+   "specialRulesValue": 24,
+   "supportMaterials_month": {
+      "money": 0,
+      "boost": 2,
+      "water": 30,
+      "volatiles": 10,
+      "metals": 4
+   },
+   "weightedBuildMaterials": {
+      "water": 0.1,
+      "volatiles": 0.3,
+      "metals": 0.6
+   },
+   "baseIconResource": "habmodules/base_T3_CivilianComplex",
+   "stationIconResource": "habmodules/station_T3_CivilianComplex",
+   "stationModelResource": "habmodules/station_T3_CivilianComplex_Module",
+   "stationDestructionResource": "habmodules/stationdestruction_T3_generic",
+   "alertWorthy": false,
+   "alienModule": false,
+   "objectiveModule": false,
+   "disable": false
+},
+ {
    "dataName": "AdministrationController",
    "friendlyName": "Administration Controller",
    "coreModule": false,
