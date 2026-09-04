@@ -89,3 +89,7 @@ TIHabModuleTemplate.displayName.FissilesMine4=Improved Deep Core Fissiles Mine
 TIHabModuleTemplate.description.FissilesMine4=A deeper mine supplying Fissiles.
 TIHabModuleTemplate.displayName.FissilesMine5=Advanced Deep Core Fissiles Mine
 TIHabModuleTemplate.description.FissilesMine5=An even deeper mine supplying Fissiles.
+TIHabModuleTemplate.displayName.CivilianMegaComplex=Civilian Mega Complex
+TIHabModuleTemplate.description.CivilianMegaComplex=Advanced housing complex, housing a small city worth of personnel.
+TIHabModuleTemplate.displayName.Replicators=Civilian Replicator Complex
+TIHabModuleTemplate.description.Replicators=Replicators providing sustenance to the habs populace.

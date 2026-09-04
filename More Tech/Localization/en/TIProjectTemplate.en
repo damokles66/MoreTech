@@ -218,3 +218,9 @@ TIProjectTemplate.summary.Project_ETendril=Replicates the performance of the Ten
 
 TIProjectTemplate.displayName.Project_ETendril2=Advanced Exotic Spike Radiator
 TIProjectTemplate.summary.Project_ETendril2=Improves upon the performance of the Tendril Radiator commonly found on alien ships.
+
+TIProjectTemplate.displayName.Project_AgricultureComplex2=Civilian Replicator Complex
+TIProjectTemplate.summary.Project_AgricultureComplex2=Replicators providing sustenance to the habs populace.
+
+TIProjectTemplate.displayName.Project_CivilianComplex2=Civilian Mega Complex
+TIProjectTemplate.summary.Project_CivilianComplex2=Advanced housing complex, housing a small city worth of personnel.
